@@ -33,7 +33,7 @@ As expressões faciais são um dos principais meios de comunicação não verbal
 - Dataset: Datasets contendo imagens de expressões faciais serão utilizados para a realização da comparação e identificação dessas expressões. A intenção é utilizar datasets já disponíveis, para otimizar e agilizar o processo de desenvolvimento do nosso projeto. Alguns datasets recomendados incluem: Kaggle - Face Expression Recognition Dataset e DFEW (Dynamic Facial Expression in-the-Wild).
 - IA: Utilizaremos uma IA que consiga ser alimentada de modo a analisar o contexto presente na tela e reconhecer corretamente a relação entre a expressão do indivíduo e o contexto que se apresenta. Algumas IAs que podem ser utilizadas são: FER - Facial Expression Recognition e MediaPipe.
 
-## Publico Alvo (A FAZER)
+## Publico Alvo
 
 <!-- 
 - Determine qual o grupo específico de pessoas ou organizações para as quais este produto ou serviço é direcionado.
