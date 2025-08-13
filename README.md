@@ -56,8 +56,8 @@ O público-alvo deste projeto são empresas de jogos digitais, tanto grandes est
 9. Extraia pontos positivos e faça recomendações.
 -->
 
-1. Há vários sites que permitem a criação, download e upload de datasets, e dentre eles o mais conhecido é o Kaggle, que se trata de uma plataforma online onde os usuários podem fazer download e upload de datasets. Levando em consideração que nosso projeto é dividio entre aplicativo e site, o Kaggle faz mais relação com a parte do site, onde o mesmo funciona como um Hub de datasets.
-2. 
+1. Há vários sites que permitem a criação, download e upload de datasets, e dentre eles os mais conhecidos são o Kaggle, Hugging Face e Nevermind, onde Kaggle e Hugging Face são plataformas online onde os usuários podem, entre outras coisas, fazer download e upload de datasets. Já Nevermind é um jogo de suspence psicológico que usa a detecção de expressões faciais como artífice que torna o jogo.
+2. Kaggle: Plataforma com foco em Ciência de Dados e Machine Learning, cuja função primária são suas competições, onde times ou indivíduos podem enviar seus modelos para resolver problemas específicos e ganhar prêmios, além disso ele oferece datasets, notebooks e um fórum da comunidade. Os usuários podem fazer download ou upload de datasets e notebooks; Hugging Face: Uma empresa responsável pelo desenvolvimento de ferramentas e recursos para o desenvolvimento de plicações com Machine Learning. Sua plataforma permite que os usuários colaborem em modelos de Machine Learning e datasets; Nevermind: um jogo de suspence psicológico que adapta a dificuldade, visuais e som de acordo com o estresse detectado na expressão facial do jogador.
 
 
 ### Personas (A FAZER)
