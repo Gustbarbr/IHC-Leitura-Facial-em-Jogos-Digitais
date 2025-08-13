@@ -44,7 +44,7 @@ As expressões faciais são um dos principais meios de comunicação não verbal
 O público-alvo deste projeto são empresas de jogos digitais, tanto grandes estúdios quanto estúdios independentes (indies). Essas empresas têm como foco principal o desenvolvimento de jogos e buscam formas de aumentar o engajamento dos jogadores. Elas se beneficiam do projeto por promover uma maior aproximação entre jogo e jogador, permitindo customizações mais precisas e experiências mais envolventes. Em termos de características, esse público é composto por organizações que valorizam inovação, adaptação às tendências do mercado e feedback direto do usuário, sendo mais propensas a investir em ferramentas que aumentem a retenção e a satisfação dos jogadores.
 
 ## Análise de concorrência (A FAZER)
-
+<!--
 1. Identifique os principais concorrentes ou softwares mais utilizados pelo seu público-alvo.
 2. Colete informações sobre os concorrentes selecionados.
 3. Analise as características e funcionalidades dos concorrentes.
@@ -54,6 +54,11 @@ O público-alvo deste projeto são empresas de jogos digitais, tanto grandes est
 7. Identifique padrões e tendências no mercado.
 8. Elabore relatórios e sumarize os resultados.
 9. Extraia pontos positivos e faça recomendações.
+-->
+
+1. Há vários sites que permitem a criação, download e upload de datasets, e dentre eles o mais conhecido é o Kaggle, que se trata de uma plataforma online onde os usuários podem fazer download e upload de datasets. Levando em consideração que nosso projeto é dividio entre aplicativo e site, o Kaggle faz mais relação com a parte do site, onde o mesmo funciona como um Hub de datasets.
+2. 
+
 
 ### Personas (A FAZER)
 
