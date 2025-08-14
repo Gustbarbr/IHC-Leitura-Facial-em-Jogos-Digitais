@@ -40,7 +40,7 @@ As expressões faciais são um dos principais meios de comunicação não verbal
 - Descreva as caracteristicas demográficas, comportamentais, psicográficas ou geográficas deste público alvo que o torna mais propenso a se interessar pelo que está sendo oferecido neste projeto ou serviço.
 
 -->
-
+O público-alvo deste projeto são pessoas e empresas cujo trabalho impactam os seus clientes emocionalmente, como empresas de jogos, produtores de filmes e principalmente desenvolvedores que possuam projetos de DeepLearning que requer treinamento de emoções faciais.
 O público-alvo deste projeto são empresas de jogos digitais, tanto grandes estúdios quanto estúdios independentes (indies). Essas empresas têm como foco principal o desenvolvimento de jogos e buscam formas de aumentar o engajamento dos jogadores. Elas se beneficiam do projeto por promover uma maior aproximação entre jogo e jogador, permitindo customizações mais precisas e experiências mais envolventes. Em termos de características, esse público é composto por organizações que valorizam inovação, adaptação às tendências do mercado e feedback direto do usuário, sendo mais propensas a investir em ferramentas que aumentem a retenção e a satisfação dos jogadores.
 
 ## Análise de concorrência (A FAZER)
@@ -59,8 +59,21 @@ O público-alvo deste projeto são empresas de jogos digitais, tanto grandes est
 1. Há vários sites que permitem a criação, download e upload de datasets, e dentre eles os mais conhecidos são o Kaggle, Hugging Face e Nevermind, onde Kaggle e Hugging Face são plataformas online onde os usuários podem, entre outras coisas, fazer download e upload de datasets. Já Nevermind é um jogo de suspence psicológico que usa a detecção de expressões faciais como artífice que torna o jogo.
 2. Kaggle: Plataforma com foco em Ciência de Dados e Machine Learning, cuja função primária são suas competições, onde times ou indivíduos podem enviar seus modelos para resolver problemas específicos e ganhar prêmios, além disso ele oferece datasets, notebooks e um fórum da comunidade. Os usuários podem fazer download ou upload de datasets e notebooks; Hugging Face: Uma empresa responsável pelo desenvolvimento de ferramentas e recursos para o desenvolvimento de plicações com Machine Learning. Sua plataforma permite que os usuários colaborem em modelos de Machine Learning e datasets; Nevermind: um jogo de suspence psicológico que adapta a dificuldade, visuais e som de acordo com o estresse detectado na expressão facial do jogador.
 3. Kaggle: Competição entre usuários utilizando modelos de Machine Learning; upload e download de datasets que podem ser públicos ou privados; upload e download de notebooks que permitem o compartilhamento de técnicas de criação de códigos e análise de dados e cursos de aprendizado de ciência de dados. Hugging Face: Biblioteca Transformers que simplifica o uso de modelos transformer para geração de texto e tradução; upload e download de datasets, principalmente relacionados a modelos de Machine Learning e NLP; hub de modelos que funciona como repositório de modelos pré-treinados para tarefas relacionadas a NLP, visão computacional e áudio. Nevermind: Uso de expressões faciais do jogador, captadas a partir da webcam, para alterar a jogabilidade do jogo, mudando a dificuldade, visuais e sons; O jogo se torna mais difícil conforme o estresse emocional do jogador aumenta, onde medo e ansiedade tem um foco maior.
+4. A interface minimalista chama atenção em pontos importantes com botões de ações rápidas, dando liberdade ao usuário para criar suas próprias bases de dados. A criação de um cadastro é obrigatório para publicar novas bases mas para aumentar a acessibilidade de bases de emoções, não é necessário cadastro para realizar o download.
+Pontos a serem melhorados: faz se necessário um sistema de busca para facilitar a busca de uma base adequada para o usuário. Adicionar feedback e um fórum de comentários para receber novas ideias e críticas construtivas e criar um app que seja capaz de fazer o treinamento via celular ou diretamente pelo site.
+5. Alguns modelos de comércio aplicáveis para o presente projeto são:
+ 5.1 Plano gratuito + Premium, onde no plano gratuito, o usuário teria um limite de datasets que podem ser criados por mes e não teria acesso às ferramentas de melhoria de treinamento.
+No plano premium o usuário teria acesso total ao aplicativo, podendo aplicar data augmentation durante o treinamento, criação de dataset ilimitado e acesso á informações privilegiadas como o perfil dos usuários que baixaram o dataset que foi criado por ele.  
+<br>
+ 5.2 Venda direta de datasets: criadores podem vender seus datasets e a plataforma ficar com uma porcentagem (modelo marketplace).
+<br>
+ 5.3 Assinatura por categoria: o usuário assina um plano que dá acesso a um tipo específico de conteúdo (datasets de jogos, filmes, IA, etc.).
+<br>
+ 5.4 Licenciamento empresarial: empresas pagam para ter acesso completo à base de dados.
+<br>
 
-
+6 Pesquisa de satisfação do cliente e opiniões:
+tendo em consideração que o 
 ### Personas (A FAZER)
 
 - Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
