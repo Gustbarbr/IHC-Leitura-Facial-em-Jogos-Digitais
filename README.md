@@ -63,11 +63,12 @@ Enquanto a desenvolvedores de deeplearning, é comum uma etapa para desenvolvime
 5. A kaggle baseia-se no plano freemium, onde todas as principais ferramentas são disponibilizadas de forma gratuita e a monetização vem de empresas que se interessam em criar suas próprias competições na plataforma, além da plataforma fazer parcerias com empresas como google cloud e receber uma porcentagem do prêmio das competições citadas anteriormente. Resumidamente, usuários individuais não precisam pagar um plano para ter acesso total às funcionalidades do site, mas empresas devem pagar pelo suporte da kaggle para hospedar competições pagas e para utilizar de alguma ferramenta da kaggle para projetos empresariais.
 6. Na plataforma da Kaggle não existe explicitamente uma área de avaliação, mas a coleta é realizada de forma rápida distribuindo questionário de avaliação para a comunidade da kaggle fora da plataforma, opiniões de usuários em redes sociais. Também, após uma competição hosedada na kaggle, existe um formulário curto para receber o feedback daquela função. De forma um pouco mais discreta, existe a opção de reportar bugs ou falhas no sistema, que serve pode servir como crítica construtiva.
 7. O mercado de Inteligência artificial vem crescendo rapidamente e de maneira desenfreada, juntamente com a IA, os datasets tornam-se fatores principais nesse meio. Desta maneira, a busca por treinamento, machine learning, só tende a aumentar e ganhar cada vez mais o mercado no mundo. Com isso, a procura por datasets / modelos treinados permite que áreas relacionadas consigam dominar.
-8. testet
+8. O Kaggle possui um acervo enorme de datasets e informações, cerca de dezenas de milhares (de acordo com o site https://www.innovatiana.com/en/post/kaggle-for-datasets?utm_source=chatgpt.com), isso se dá pela grande quantidade de acessos e por ser open source. Este modelo vem crescendo constantemente no mercado, com mais e mais pessoas utilizando as máquinas para aprendizagem e inteligências artificiais. Com isso, a possibilidade de crescimento de Kaggle é muito grande, além disso, é a porta de entrada para muitos ourtos artifícios de acervos e disponibilização de datasets.
 9. Pontos positivos:
 <ul>
  <li>A plataforma Kaggle oferece muitos datasets de diversos tipos, de forma open-source;</li>
  <li>Tais datasets são disponibilizados com extensões fáceis de serem utilizadas, como CSV, Json;</li>
+ <li>É um site ativo, com manutenção e adição de informações recentes,</li>
 </ul>
 
 ### Personas (A FAZER)
