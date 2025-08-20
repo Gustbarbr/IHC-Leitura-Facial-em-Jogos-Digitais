@@ -2,7 +2,7 @@
 
 Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Interface Humano-Computador (CC8122) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
 
-Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Título do TCC** sob orientação do Professor **Nome do Orientador** e desenvolvido pelos seguintes alunos:
+Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado Leitura Facial em Jogos Digitais: Ferramenta facilitadora de criação de datasets sob orientação do Professor Dr. Fagner de Assis Moura Pimentel e desenvolvido pelos seguintes alunos:
 
 - Nome: Gustavo Gomes Barbosa | RA: 24.122.061-5
 - Nome: Pedro Munhoz Rosin | RA: 24.122.013-6
@@ -98,6 +98,7 @@ Enquanto a desenvolvedores de deeplearning, é comum uma etapa para desenvolvime
 
 ![Mapa de empatia](empatia.png)
 
+<!--
 - Determine o mapa de empatia[^1] de pelo menos uma persona primária e uma sercundária.
   - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
   - O que o usuário ouve: neste quadrante, buscamos entender o que o usuário está ouvindo, os sons que o cercam e como eles influenciam suas ações.
@@ -106,7 +107,24 @@ Enquanto a desenvolvedores de deeplearning, é comum uma etapa para desenvolvime
   Que tipo de serviço ou poduto mais agrada essa persona?
   - Dores: quando falamos sobre dores do usuário, estamos fazendo referência a quaisquer obstáculos, necessidades ou frustrações que o usuário possa experimentar ao tentar realizar uma tarefa ou alcançar um objetivo. Isso inclui, por exemplo, problemas de usabilidade, dificuldades de acesso ou outros desafios que podem afetar a experiência do usuário.
   - Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou poduto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou poduto satisfaz?
+-->
 
+#### Persona primária: Gabriel Calvacante, 43 anos
+- O que o usuário vê: Família bem estruturada; Amigos de classe média-alta, Chefe que demanda desempenho por parte dos funcionários.
+- O que o usuário ouve: Precisa passar mais tempo com a família e menos no trabalho; Assiste a canais do YouTube sobre a área de dados.
+- O que o usuário diz e faz: Gosta de ler livros que abordam psicologia, desde suspense até estudos científicos; Frquenta lugares de luxo moderado, de forma que a família esteja confortável sem precisar gastar mais do que deve.
+- O que o usuário pensa e sente: Preciso estudar para crescer na minha área; Acredito que jogos customizados podem vender mais do que jogos comuns; Compreendo que quanto mais dados a empresa tiver, mais fácil será o trabalho dos funcionários.
+- Dores: Sente que passa menos tempo com a família por conta do tempo gasto dentro de seu trabalho; Sente que não atende as demandas de seu chefe, e se conseguisse um facilitador poderia alavancar seus resultados.
+- Ganhos: Redução de tempo de trabalho, tanto por parte da pesquisa de um dataset coerente, quanto por parte da criação de um novo; Facilidade ao encontrar novos dados.
+
+#### Persona secundária: Lora Barros, 21 anos
+- O que o usuário vê: 
+- O que o usuário ouve:
+- O que o usuário diz e faz:
+- O que o usuário pensa e sente:
+- Dores:
+- Ganhos:
+  
 ## Contexto de uso (A FAZER)
 
 - Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
