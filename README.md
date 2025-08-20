@@ -77,7 +77,7 @@ Enquanto a desenvolvedores de deeplearning, é comum uma etapa para desenvolvime
  <li>É um site ativo, com manutenção e adição de informações recentes,</li>
 </ul>
 
-### Personas (A FAZER)
+### Personas
 <!--
 - Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
