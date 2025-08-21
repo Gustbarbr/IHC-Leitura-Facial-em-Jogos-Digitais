@@ -123,7 +123,7 @@ Enquanto a desenvolvedores de deeplearning, é comum uma etapa para desenvolvime
 - O que o usuário diz e faz: Gosta de jogar videogame e estuda bastante, principalmente programação e tecnologias. Não gosta muito de sair, prefere passar o tempo em casa, seja nos estudos ou nos jogos. Gosta de ler livros técnicos.
 - O que o usuário pensa e sente: Queria um jogo revolucionário, com que possa jogar e se divertir com os amigos. Sente que precisa logo arranjar um estágio, pois todos os seus amigos estão começando em um.
 - Dores: Precisa logo de um emprego e quer começar a estudar o desenvolvimento de jogos e datasets.
-- Ganhos:
+- Ganhos: Ser bem sucedida, ter um foco profissional na área de games e ter vários amigos.
   
 ## Contexto de uso (A FAZER)
 
