@@ -127,10 +127,14 @@ Enquanto a desenvolvedores de deeplearning, é comum uma etapa para desenvolvime
   
 ## Contexto de uso (A FAZER)
 
-- Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
+- Descreva o ambiente em que o serviço ou produto deve ser utilizado:
+  O produto deve ser utilizado para gerar datasets a partir das emoções das pessoas em jogos digitais a partir de uma webcam. Assim, o ambiente deve estar bem iluminado, a webcam deve ter uma qualidade de 720p ou superior e o usuário deve ter um fundo sem muitos objetos.
 - Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
+  O usuário deverá ter uma webcam relativamente atual / boa.
 - Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
+  O processo não é instantâneo e há pré-requisitos antes de iniciar a jogatina. É preciso tirar fotos do usuário e treinar a IA para reconhecimento facial.
 - O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
+  O usuário poderá ver a sua reação a partir do contexto do jogo. Em sua volta, o ambiente deve se manter o mesmo e não poderá haver muito movimento do usuário.
 
 ## Jornada do usuário (A FAZER)
 
