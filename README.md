@@ -118,11 +118,11 @@ Enquanto a desenvolvedores de deeplearning, é comum uma etapa para desenvolvime
 - Ganhos: Redução de tempo de trabalho, tanto por parte da pesquisa de um dataset coerente, quanto por parte da criação de um novo; Facilidade ao encontrar novos dados.
 
 #### Persona secundária: Lora Barros, 21 anos
-- O que o usuário vê: 
-- O que o usuário ouve:
-- O que o usuário diz e faz:
-- O que o usuário pensa e sente:
-- Dores:
+- O que o usuário vê: Amigos bem fiéis, família que apoia suas decisões. Bem disciplinada e sempre tira boas notas.
+- O que o usuário ouve: Ouve que deve arrumar logo um emprego, sobre anúncio de novos jogos e sobre evoluções tecnológicas.
+- O que o usuário diz e faz: Gosta de jogar videogame e estuda bastante, principalmente programação e tecnologias. Não gosta muito de sair, prefere passar o tempo em casa, seja nos estudos ou nos jogos. Gosta de ler livros técnicos.
+- O que o usuário pensa e sente: Queria um jogo revolucionário, com que possa jogar e se divertir com os amigos. Sente que precisa logo arranjar um estágio, pois todos os seus amigos estão começando em um.
+- Dores: Precisa logo de um emprego e quer começar a estudar o desenvolvimento de jogos e datasets.
 - Ganhos:
   
 ## Contexto de uso (A FAZER)
