@@ -83,16 +83,12 @@ Enquanto a desenvolvedores de deeplearning, é comum uma etapa para desenvolvime
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
 -->
 #### Persona primária
-1. Thiago Alberto Mendes
-   Thiago Alberto Mendes, de 35 anos, é formado em Design de Jogos e atualmente trabalha como Game Director em uma empresa pequena de nome Best Games Studio. Já criou títulos como ATG VI, Armored Lore, Bright Souls. Todos esses jogos possuem características únicas, mas nenhum conseguiu colocar a empresa em posição de destaque. Sua ideia para aumentar o renome da empresa é fazer um título único e inovador.
+1. Thiago Alberto Mendes, de 35 anos, é formado em Design de Jogos e atualmente trabalha como Game Director em uma empresa pequena de nome Best Games Studio. Já criou títulos como ATG VI, Armored Lore, Bright Souls. Todos esses jogos possuem características únicas, mas nenhum conseguiu colocar a empresa em posição de destaque. Sua ideia para aumentar o renome da empresa é fazer um título único e inovador.
    Thiago gostaria de adicionar em seu jogo uma mecânica única, que consiga aproximar o jogo e o jogador, de uma forma natural e que adicione elementos de jogabilidade. 
-2. Valter Alter
-   Valter Alter, de 58 anos, tem um blog e um canal no YouTube de desenvolvimento de jogos chamado ClickGamesBR, com cerca de 1.3 milhões de inscritos. O foco de seu canal é criar, mostrar ao seu público e publicar os jogos na web. Ultimamente, seus seguidores pediram para que fizesse um jogo que interaja com o usuário a partir de suas emoções. Valter tem uma ideia de história, mas necessita que seus seguidores enviem vídeos com webcam e gameplay de diversos jogos, e dessa maneira ele poderia utilizar uma ferramenta que facilite a criação de datasets, a fim de criar o que seus seguidores desejam.
-3. Gabriel Cavalcante
-   Gabriel Cavalcante, de 43 anos, trabalha como analista de dados na empresa Mind Plus, onde semanalmente necessita criar datasets para outras empresas, cujo foco principal das mesmas é o desenvolvimento de jogos. Essas empresas necessitam de datasets personalizados que consigam envolver o jogo e o jogador. Gabriel precisa de uma ferramenta que facilite a captação da emoção de pessoas enquanto jogam, dessa maneira consegue saber que tipos de jogos causariam, mais conforto, raiva e medo, a fim de auxiliar na criação de uma experiência customizada.
+2. Valter Alter, de 58 anos, tem um blog e um canal no YouTube de desenvolvimento de jogos chamado ClickGamesBR, com cerca de 1.3 milhões de inscritos. O foco de seu canal é criar, mostrar ao seu público e publicar os jogos na web. Ultimamente, seus seguidores pediram para que fizesse um jogo que interaja com o usuário a partir de suas emoções. Valter tem uma ideia de história, mas necessita que seus seguidores enviem vídeos com webcam e gameplay de diversos jogos, e dessa maneira ele poderia utilizar uma ferramenta que facilite a criação de datasets, a fim de criar o que seus seguidores desejam.
+3. Gabriel Cavalcante, de 43 anos, trabalha como analista de dados na empresa Mind Plus, onde semanalmente necessita criar datasets para outras empresas, cujo foco principal das mesmas é o desenvolvimento de jogos. Essas empresas necessitam de datasets personalizados que consigam envolver o jogo e o jogador. Gabriel precisa de uma ferramenta que facilite a captação da emoção de pessoas enquanto jogam, dessa maneira consegue saber que tipos de jogos causariam, mais conforto, raiva e medo, a fim de auxiliar na criação de uma experiência customizada.
 #### Persona secundária
-1. Lora Barros
-   Lora Barros, de 21 anos, estudante de ciências da computação tem como principal hobby jogar videogame. Costuma jogar jogos únicos com mecânicas diferentes e impactantes. Como está de férias, busca jogar um novo jogo, algo que possa ser controlado e desenvolvido a partir de identificações de rosto, emoções. Para ela, esse seria o ápice da tecnologia nos jogos eletrônicos.
+1. Lora Barros, de 21 anos, estudante de ciências da computação tem como principal hobby jogar videogame. Costuma jogar jogos únicos com mecânicas diferentes e impactantes. Como está de férias, busca jogar um novo jogo, algo que possa ser controlado e desenvolvido a partir de identificações de rosto, emoções. Para ela, esse seria o ápice da tecnologia nos jogos eletrônicos.
 
 ### Mapa de empatia (A FAZER)
 
@@ -136,14 +132,17 @@ Enquanto a desenvolvedores de deeplearning, é comum uma etapa para desenvolvime
 ### O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
   O usuário poderá ver a sua reação a partir do contexto do jogo. Em sua volta, o ambiente deve se manter o mesmo e não poderá haver muito movimento do usuário.
 
-## Jornada do usuário (A FAZER)
-
+## Jornada do usuário
+<!--
 - Criar uma narrativa para o o seu serviço ou poduto com o usuário.
 - Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
   - Descreva o que acontece ou pode acontecer passo a passo
   - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
+-->
 
-
+Jorge Mateus trabalha na área de dados de uma empresa de desenvolvimento de jogos e decidiu utilizar seu próprio rosto para criar um dataset que será usado em seu trabalho.
+Ele acessa o site do produto, realiza o cadastro, e em seguida cria um nome e uma descrição para o seu dataset. Depois, liga a webcam e define a quantidade de frames que deseja capturar. Durante esse processo, os frames da webcam são salvos automaticamente em uma pasta separada.
+Assim que a quantidade de frames definida é atingida, Jorge inicia o treinamento do dataset clicando em um botão. Em seguida, ele aciona outro botão para começar a captura de emoções e, ao mesmo tempo, inicia sua jogatina. Durante esse período, as imagens capturadas para análise emocional são armazenadas diretamente no dataset criado.
 <!--
 ## Análise de concorrência
 
