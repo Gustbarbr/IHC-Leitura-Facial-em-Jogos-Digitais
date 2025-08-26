@@ -153,6 +153,8 @@ Assim que a quantidade de frames definida é atingida, Jorge inicia o treinament
   - Existe plataforma similar que atende o mesmo mercado e funcionalidades? Se sim: Quais os pontos positivos? Quais os pontos negativos?
   - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
  -->
+
+## Qualidade de Uso em IHC (A FAZER)
  
 ## Coleta de dados (A FAZER)
 
