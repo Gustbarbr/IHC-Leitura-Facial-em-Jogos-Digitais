@@ -125,13 +125,17 @@ Enquanto a desenvolvedores de deeplearning, é comum uma etapa para desenvolvime
 ## Contexto de uso
 
 ### Descreva o ambiente em que o serviço ou produto deve ser utilizado:
-  O produto deve ser utilizado para gerar datasets a partir das emoções das pessoas em jogos digitais a partir de uma webcam. Assim, o ambiente deve estar bem iluminado, a webcam deve ter uma qualidade de 720p ou superior e o usuário deve ter um fundo sem muitos objetos. O usuário também não pode estar cobrindo parcial ou totalmente o rosto, através do uso de bonés, mascaras e toucas.
+* Gabriel Cavalcante:
+Como Gabriel precisa capturar expressões faciais com precisão para gerar datasets confiáveis, o ambiente ideal de uso do produto deve ser controlado. Ele normalmente utiliza salas bem iluminadas e silenciosas em sua empresa, com webcams de pelo menos 720p e fundos neutros, garantindo que os dados não sejam comprometidos por interferências visuais. Como profissional da área, Gabriel também se certifica de que os participantes não utilizem acessórios que obstruam o rosto, como bonés, máscaras ou óculos escuros, para manter a qalidade do reconhecimento facial.
 ### Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
-  O usuário deverá possuir um computador relativamente potente, sendo que quanto melhor a CPU e quanto maior a memória RAM, mais rapidamente serão gerados os datasets.
+* Gabriel Cavalcante:
+Gabriel atua em um contexto profissional, dentro de uma empresa de tecnologia com foco em dados e jogos digitais. Ele tem acesso a recursos computacionais avançados e trabalha com colaboradores familiarizados com tecnologia. Culturalmente, ele está inserido em um ambiente onde inovação, usabilidade e personalização são valorizados, pois os datasets gerados serão usados para melhorar a experiência de jogadores de diferentes perfis. Economicamente, sua empresa investe em ferramentas que otimizem o tempo e aumentem a qualidade dos dados, o que torna fundamental que o produto seja eficiente e compatível com sistemas mais robustos.
 ### Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
-  O processo não é instantâneo e há pré-requisitos antes de iniciar a jogatina. É preciso tirar fotos do usuário através do produto e a partir disso treinar a IA para reconhecimento facial, e só então a jogatina deve ser iniciada.
+* Gabriel Cavalcante:
+Antes de iniciar a coleta de dados, Gabriel precisa configurar o ambiente e o sistema de forma adequada. Isso inclui garantir que os participantes estejam posicionados corretamente, com boa iluminação e sem obstruções no rosto. O sistema deve registrar informações básicas sobre o cenário de uso (como iluminação, tipo de câmera, resolução e características do ambiente), bem como armazenar fotos iniciais dos usuários para o treinamento do modelo de reconhecimento facial. Esses dados são fundamentais para que o processo ocorra sem erros e para garantir consistência nos datasets gerados.
 ### O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
-  O usuário poderá ver a sua reação a partir do contexto do jogo. Em sua volta, o ambiente deve se manter o mesmo e não poderá haver muito movimento do usuário.
+* Gabriel Cavalcante:
+Durante a coleta das emoções, Gabriel garante que o ambiente permaneça estável: a iluminação constante, pouco ruído e o mínimo de movimento externo. Isso evita interferências no reconhecimento facial e garante que as emoções captadas estejam realmente relacionadas às interações do jogador com o jogo. O foco é criar uma experiência imersiva para o participante, enquanto Gabriel observa, coleta e analisa os dados gerados em tempo real ou após a sessão.
 
 ## Jornada do usuário
 <!--
