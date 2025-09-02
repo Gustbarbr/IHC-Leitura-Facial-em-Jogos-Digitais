@@ -127,6 +127,22 @@ Enquanto a desenvolvedores de deeplearning, é comum uma etapa para desenvolvime
 - Dores: Sente que passa menos tempo com a família por conta do tempo gasto dentro de seu trabalho; Sente que não atende as demandas de seu chefe, e se conseguisse um facilitador poderia alavancar seus resultados.
 - Ganhos: Redução de tempo de trabalho, tanto por parte da pesquisa de um dataset coerente, quanto por parte da criação de um novo; Facilidade ao encontrar novos dados.
 
+#### Persona primária: Valter Alter, 58 anos
+- O que o usuário vê: Seus seguidores do Youtube apoiando suas ideias, família bem unida, cenário de game development mais desenvolvido.
+- O que o usuário ouve: As ferramentas para realizar seu trabalho estão avançando rapidamente, família apoia muito seu trabalho.
+- O que o usuário diz e faz: Gosta de jogar com seus filhos, gosta de produzir jogos e distribuir a seus seguidores. Diz que ama o que faz.
+- O que o usuário pensa e sente: Sente que precisa inovar em seu conteúdo e que precisa de ferramentas novas para isso.
+- Dores: Sente que ainda não fez um jogo de sucesso e que gostasse. Gostaria de atrair mais pessoas para seu nicho de games.
+- Ganhos: Redução do tempo de trabalho e uma produção mais rápida de conteúdo.
+
+#### Persona primária: Thiago Alberto Mendes, 35 anos
+- O que o usuário vê: Sua contribuição em desenvolvimento de jogos interessantes, 
+- O que o usuário ouve: Que fez bons jogos, que precisa renovar o estado dos games.
+- O que o usuário diz e faz: Diz que quer fazer um jogo que seja inovador e muito grande, que precisa criar uma família.
+- O que o usuário pensa e sente: Se sente sozinho e estagnado profissionalmente.
+- Dores: Não ter feito um jogo muito conhecido, não ter uma família.
+- Ganhos: Muita experiência no desenvolvimento de jogos e manejamento de equipes.
+
 #### Persona secundária: Lora Barros, 21 anos
 - O que o usuário vê: Amigos bem fiéis, família que apoia suas decisões. Bem disciplinada e sempre tira boas notas.
 - O que o usuário ouve: Ouve que deve arrumar logo um emprego, sobre anúncio de novos jogos e sobre evoluções tecnológicas.
