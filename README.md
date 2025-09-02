@@ -58,9 +58,15 @@ Enquanto a desenvolvedores de deeplearning, é comum uma etapa para desenvolvime
 
 1. Há vários sites que permitem a criação, download e upload de datasets, e dentre eles os mais conhecidos são o Kaggle, Hugging Face e Nevermind, onde Kaggle e Hugging Face são plataformas online onde os usuários podem, entre outras coisas, fazer download e upload de datasets. Já Nevermind é um jogo de suspence psicológico que usa a detecção de expressões faciais como artífice que torna o jogo.
 2. 
-   - Kaggle: Plataforma com foco em Ciência de Dados e Machine Learning, cuja função primária são suas competições, onde times ou indivíduos podem enviar seus modelos para resolver problemas específicos e ganhar prêmios, além disso ele oferece datasets, notebooks e um fórum da comunidade. Os usuários podem fazer download ou upload de datasets e notebooks; 
-   - Hugging Face: Uma empresa responsável pelo desenvolvimento de ferramentas e recursos para o desenvolvimento de plicações com Machine Learning. Sua plataforma permite que os usuários colaborem em modelos de Machine Learning e datasets; 
-   - Nevermind: um jogo de suspence psicológico que adapta a dificuldade, visuais e som de acordo com o estresse detectado na expressão facial do jogador.
+   - Kaggle: Plataforma com foco em Ciência de Dados e Machine Learning, cuja função primária são suas competições, onde times ou indivíduos podem enviar seus modelos para resolver problemas específicos e ganhar prêmios, além disso ele oferece datasets, notebooks e um fórum da comunidade. Os usuários podem fazer download ou upload de datasets e notebooks;<br>
+     <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/184c7fcb-7920-4c62-a615-d0173ccb2087" />
+     
+   - Hugging Face: Uma empresa responsável pelo desenvolvimento de ferramentas e recursos para o desenvolvimento de plicações com Machine Learning. Sua plataforma permite que os usuários colaborem em modelos de Machine Learning e datasets;<br>
+     <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/305a3b5f-e3a4-4e9f-b333-70fefbb3405f" />
+   
+   - Nevermind: um jogo de suspence psicológico que adapta a dificuldade, visuais e som de acordo com o estresse detectado na expressão facial do jogador.<br>
+     <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2ef14b47-399c-45e6-89f7-1723d66e86a5" />
+
 3.
    - Kaggle: Competição entre usuários utilizando modelos de Machine Learning; upload e download de datasets que podem ser públicos ou privados; upload e download de notebooks que permitem o compartilhamento de técnicas de criação de códigos e análise de dados e cursos de aprendizado de ciência de dados;
    - Hugging Face: Biblioteca Transformers que simplifica o uso de modelos transformer para geração de texto e tradução; upload e download de datasets, principalmente relacionados a modelos de Machine Learning e NLP; hub de modelos que funciona como repositório de modelos pré-treinados para tarefas relacionadas a NLP, visão computacional e áudio;
@@ -84,9 +90,16 @@ Enquanto a desenvolvedores de deeplearning, é comum uma etapa para desenvolvime
 -->
 #### Persona primária
 1. Thiago Alberto Mendes, de 35 anos, é formado em Design de Jogos e atualmente trabalha como Game Director em uma empresa pequena de nome Best Games Studio. Já criou títulos como ATG VI, Armored Lore, Bright Souls. Todos esses jogos possuem características únicas, mas nenhum conseguiu colocar a empresa em posição de destaque. Sua ideia para aumentar o renome da empresa é fazer um título único e inovador.
-   Thiago gostaria de adicionar em seu jogo uma mecânica única, que consiga aproximar o jogo e o jogador, de uma forma natural e que adicione elementos de jogabilidade. 
-2. Valter Alter, de 58 anos, tem um blog e um canal no YouTube de desenvolvimento de jogos chamado ClickGamesBR, com cerca de 1.3 milhões de inscritos. O foco de seu canal é criar, mostrar ao seu público e publicar os jogos na web. Ultimamente, seus seguidores pediram para que fizesse um jogo que interaja com o usuário a partir de suas emoções. Valter tem uma ideia de história, mas necessita que seus seguidores enviem vídeos com webcam e gameplay de diversos jogos, e dessa maneira ele poderia utilizar uma ferramenta que facilite a criação de datasets, a fim de criar o que seus seguidores desejam.
-3. Gabriel Cavalcante, de 43 anos, trabalha como analista de dados na empresa Mind Plus, onde semanalmente necessita criar datasets para outras empresas, cujo foco principal das mesmas é o desenvolvimento de jogos. Essas empresas necessitam de datasets personalizados que consigam envolver o jogo e o jogador. Gabriel precisa de uma ferramenta que facilite a captação da emoção de pessoas enquanto jogam, dessa maneira consegue saber que tipos de jogos causariam, mais conforto, raiva e medo, a fim de auxiliar na criação de uma experiência customizada.
+   Thiago gostaria de adicionar em seu jogo uma mecânica única, que consiga aproximar o jogo e o jogador, de uma forma natural e que adicione elementos de jogabilidade.
+   <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/840e1f88-3f76-439c-9127-e4c811bcb35c" />
+
+2. Valter Alter, de 58 anos, tem um blog e um canal no YouTube de desenvolvimento de jogos chamado ClickGamesBR, com cerca de 1.3 milhões de inscritos. O foco de seu canal é criar, mostrar ao seu público e publicar os jogos na web. Ultimamente, seus seguidores pediram para que fizesse um jogo que interaja com o usuário a partir de suas emoções. Valter tem uma ideia de história, mas necessita que seus seguidores enviem vídeos com webcam e gameplay de diversos jogos, e dessa maneira ele poderia utilizar uma ferramenta que facilite a criação de datasets, a fim de criar o que seus seguidores desejam.<br>
+  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/51503288-f126-448a-8377-81d675db1de1" />
+
+
+3. Gabriel Cavalcante, de 43 anos, trabalha como analista de dados na empresa Mind Plus, onde semanalmente necessita criar datasets para outras empresas, cujo foco principal das mesmas é o desenvolvimento de jogos. Essas empresas necessitam de datasets personalizados que consigam envolver o jogo e o jogador. Gabriel precisa de uma ferramenta que facilite a captação da emoção de pessoas enquanto jogam, dessa maneira consegue saber que tipos de jogos causariam, mais conforto, raiva e medo, a fim de auxiliar na criação de uma experiência customizada.<br>
+   <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/8004ef7f-e31e-4866-a6d5-e321e374af5e" />
+
 #### Persona secundária
 1. Lora Barros, de 21 anos, estudante de ciências da computação tem como principal hobby jogar videogame. Costuma jogar jogos únicos com mecânicas diferentes e impactantes. Como está de férias, busca jogar um novo jogo, algo que possa ser controlado e desenvolvido a partir de identificações de rosto, emoções. Para ela, esse seria o ápice da tecnologia nos jogos eletrônicos.
 2. Alberto Bezerra, de 24 anos, estudante de ciências da computação está participando de uma iniciação científica que envolve o desenvolvimento de aplicações com Deep Learning, mas o projeto acabou se estagnando pois o dataset que ele utiliza está desbalanceado. Como está no terceiro semestre da faculdade, ele não compreende completamente o conceito de data augmentation, então ele busca por métodos de criação de datasets usando o próprio rosto para suprir os dados que estão em falta no dataset original.
