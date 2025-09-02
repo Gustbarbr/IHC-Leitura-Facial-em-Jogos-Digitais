@@ -197,6 +197,18 @@ Tais fatores contribuirão para a satisfação e credibilidade do usuário com o
 * Para acessibilidade, teremos menus simples e explicações compreensíveis para o entendimento de todo público alvo, algo a ser implementado seria uma resposta auditiva ao clicar botões, para uma maior abrangência de público.
 O design inteligente e o fluxo lógico para o desenvolvimento da atividade torna o aplicativo fácil de ser utilizado e intuitivo na hora do uso. <br>
 * O sistema terá boa comunicabilidade, uma vez que cada passo apresentará explicações de como usar e o que está sendo feito, com as imagens, com o usuário, com o sistgema. Serão utilizados icones, imagens, para facilitar a comunicação e interação com o usuário, a partir da aplicação.
+
+## Ambiente e contexto
+
+* Thiago Alberto Mendes:
+Thiagp
+* Perguntas:
+
+* Valter Alter
+* Perguntas:
+
+* Gabriel Cavalcante
+* Perguntas:
  
 ## Coleta de dados (A FAZER)
 
