@@ -172,15 +172,15 @@ Assim que a quantidade de frames definida é atingida, Jorge inicia o treinament
  -->
 
 ## Qualidade de Uso em IHC
-A usabilidade é um dos pilares fundamentais do projeto e deve ser muito bem projetada, uma vez que qualquer um que possuir a licença poderá utilizar a plataforma.
+* A usabilidade é um dos pilares fundamentais do projeto e deve ser muito bem projetada, uma vez que qualquer um que possuir a licença poderá utilizar a plataforma.
 Desta maneira, ela será intuitiva, com ícones, imagens e explicações das funcionalidades, deve ser, também, fácil de ser utilizada e deve ter um grau de aprendizagem rápido e permanente no usuário, para que não precise se utilizar de tutoriais a cada uso.
 Juntamente a isso, será feito um fluxo lógico de navegação, direcionando o usuário para a próxima etapa do processo de forma fluida e focada.
 Por ser um aplicativo local, a segurança será o menor dos problemas, uma vez que as imagens tiradas e os dados gerados estarão presentes no computador do usuário. <br>
-A experiência do usuário será baseada em suas emoções e expressões faciais, desta maneira, para atribuir sensações de prazer, diversão e profissionalismo, o aplicativo deverá possuir animações fluidas. interfaces modernas, feedback ao usuário e design inteligente.
+* A experiência do usuário será baseada em suas emoções e expressões faciais, desta maneira, para atribuir sensações de prazer, diversão e profissionalismo, o aplicativo deverá possuir animações fluidas. interfaces modernas, feedback ao usuário e design inteligente.
 Tais fatores contribuirão para a satisfação e credibilidade do usuário com o projeto. <br>
-Para acessibilidade, teremos menus simples e explicações compreensíveis para o entendimento de todo público alvo, algo a ser implementado seria uma resposta auditiva ao clicar botões, para uma maior abrangência de público.
+* Para acessibilidade, teremos menus simples e explicações compreensíveis para o entendimento de todo público alvo, algo a ser implementado seria uma resposta auditiva ao clicar botões, para uma maior abrangência de público.
 O design inteligente e o fluxo lógico para o desenvolvimento da atividade torna o aplicativo fácil de ser utilizado e intuitivo na hora do uso. <br>
-O sistema terá boa comunicabilidade, uma vez que cada passo apresentará explicações de como usar e o que está sendo feito, com as imagens, com o usuário, com o sistgema. Serão utilizados icones, imagens, para facilitar a comunicação e interação com o usuário, a partir da aplicação.
+* O sistema terá boa comunicabilidade, uma vez que cada passo apresentará explicações de como usar e o que está sendo feito, com as imagens, com o usuário, com o sistgema. Serão utilizados icones, imagens, para facilitar a comunicação e interação com o usuário, a partir da aplicação.
  
 ## Coleta de dados (A FAZER)
 
