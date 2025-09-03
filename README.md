@@ -267,9 +267,28 @@ Valter abre a aplicação, conecta a webcam e inicia o processo de captura [Q5].
 
 Ao final, a ferramenta gera um dataset com imagens rotuladas automaticamente. Valter avalia o resultado, observando que, apesar de alguns erros de classificação, a ferramenta poupou horas de trabalho manual e já fornece um material consistente para testes [Q7]. Ele conclui que, com pequenos ajustes de iluminação e configuração, poderá expandir o uso da ferramenta para o público do seu canal.
 
-### Gabriel Cavalcante
-### Perguntas:
- 
+### Gabriel Cavalcante:
+Gabriel Cavalcante, criador e desenvolvedor de DataSets para games da empresa MindPlus, necessita de uma ferramenta nova para um projeto recém estabelecido. [1] Necessita a disponibilização de dataset a partir de um jogo específico de terror, chamado Outcast.
+Neste projeto é necessário que as [11] emoções das pessoas sejam correlacionadas com o que está acontecendo no jogo, elementos, criaturas. Depois de pesquisar, [7] encontrou uma ferramenta facilitadora de criação de datasets que [3] poderia ser usada por qualquer pessoa, com o mesmo propósito que estava buscando.
+Para testar, [2] viu que necessitava de uma webcam, [10] um espaço bem iluminado, sem muito movimento e de um [12] computador de média potência para operar. Ao iniciar o teste, [4] foram tiradas várias capturas para o treinamento da ferramenta, depois realizou o treinamento e, por fim, conseguiu entrar no jogo e, [5] depois de terminada a sessão, [6] ver os resultados correlacionados.
+A partir dela, conseguiu, por meio de capturas de emoções e de cenário, contribuir com o projeto de maneira rápida, efetiva e de [9] uma maneira simplificada e inutitiva, [8] conseguindo ainda publicar o dataset publicamente para uso.
+<br>
+* Perguntas de refinamento:
+1. Por que o ator quer utilizar a ferramenta?
+2. Quais as pré-condições para a utilização?
+3. Quem pode utilizar a ferramenta?
+4. Como é feito o processo de utilização?
+5. Como o usuário sabe que o processo acabou?
+6. Qual é o resultado da utilização da ferramenta?
+7. Para que a ferramenta é utilizadda?
+8. A ferramenta pode ir além?
+9. A ferramenta é fácil de ser utilizada?
+10. Como deve ser o ambiente?
+11. O projeto usa qual artifício como base de processamento?
+12. A ferramenta trabalha em qualquer hardware?
+
+
+
 ## Coleta de dados (A FAZER)
 
 ## Modelo de tarefas (A FAZER)
