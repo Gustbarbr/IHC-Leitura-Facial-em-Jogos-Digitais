@@ -203,43 +203,8 @@ O design inteligente e o fluxo lógico para o desenvolvimento da atividade torna
 ### Thiago Alberto Mendes:
 ### Perguntas:
 
-### Valter Alter
-  <table>
-   <tr>
-    <th>Elemento</th>
-    <th>Perguntas</th>
-   </tr>
-   <tr>
-    <td>Ambiente</td>
-    <td>Onde Valter está quando interage com a ferramenta? Que recursos ele possui (computador, webcam, softwares)? Qual a situação que motiva o uso da aplicação?</td>
-   </tr>
-   <tr>
-    <td>Atores</td>
-    <td>Quem são os atores principais? Quem influencia ou participa indiretamente? Quais características pessoais impactam suas decisões?</td>
-   </tr>
-   <tr>
-    <td>Objetivo</td>
-    <td>O que Valter deseja alcançar com o uso da ferramenta? Quais resultados ele espera?</td>
-   </tr>
-   <tr>
-    <td>Planejamento</td>
-    <td>Quais estratégias ele define para chegar a esse objetivo? Ele planeja sozinho ou com ajuda? Ele já possui alguma experiência em coleta manual de dados?</td>
-   </tr>
-   <tr>
-    <td>Ação</td>
-    <td>Quais ações observáveis ele realiza para usar a ferramenta?</td>
-   </tr>
-   <tr>
-    <td>Evento</td>
-    <td>Quais reações externas podem ocorrer? (erro no software, travamento da webcam).</td>
-   </tr>
-   <tr>
-    <td>Avaliação</td>
-    <td>Como ele interpreta os resultados do uso da ferramenta? Ele consegue verificar se os datasets ficaram bons? Ele compara esforço contra benefício?</td>
-   </tr>
-  </table>
-  
-### Perguntas: <br>
+### Valter Alter  
+### Perguntas de refinamento: <br>
 1 - Onde a interação ocorre? Quais recursos estão disponíveis? Há restrições físicas, técnicas ou sociais? <br>
 2 - Quem são os usuários principais e secundários? Quais características influenciam o uso da aplicação? <br>
 3 - O que o usuário deseja alcançar? Há objetivos secundários? <br>
@@ -268,12 +233,7 @@ Valter abre a aplicação, conecta a webcam e inicia o processo de captura [Q5].
 Ao final, a ferramenta gera um dataset com imagens rotuladas automaticamente. Valter avalia o resultado, observando que, apesar de alguns erros de classificação, a ferramenta poupou horas de trabalho manual e já fornece um material consistente para testes [Q7]. Ele conclui que, com pequenos ajustes de iluminação e configuração, poderá expandir o uso da ferramenta para o público do seu canal.
 
 ### Gabriel Cavalcante:
-Gabriel Cavalcante, criador e desenvolvedor de DataSets para games da empresa MindPlus, necessita de uma ferramenta nova para um projeto recém estabelecido. [1] Necessita a disponibilização de dataset a partir de um jogo específico de terror, chamado Outcast.
-Neste projeto é necessário que as [11] emoções das pessoas sejam correlacionadas com o que está acontecendo no jogo, elementos, criaturas. Depois de pesquisar, [7] encontrou uma ferramenta facilitadora de criação de datasets que [3] poderia ser usada por qualquer pessoa, com o mesmo propósito que estava buscando.
-Para testar, [2] viu que necessitava de uma webcam, [10] um espaço bem iluminado, sem muito movimento e de um [12] computador de média potência para operar. Ao iniciar o teste, [4] foram tiradas várias capturas para o treinamento da ferramenta, depois realizou o treinamento e, por fim, conseguiu entrar no jogo e, [5] depois de terminada a sessão, [6] ver os resultados correlacionados.
-A partir dela, conseguiu, por meio de capturas de emoções e de cenário, contribuir com o projeto de maneira rápida, efetiva e de [9] uma maneira simplificada e inutitiva, [8] conseguindo ainda publicar o dataset publicamente para uso.
-<br>
-* Perguntas de refinamento:
+### Perguntas de refinamento:
 1. Por que o ator quer utilizar a ferramenta?
 2. Quais as pré-condições para a utilização?
 3. Quem pode utilizar a ferramenta?
@@ -287,6 +247,11 @@ A partir dela, conseguiu, por meio de capturas de emoções e de cenário, contr
 11. O projeto usa qual artifício como base de processamento?
 12. A ferramenta trabalha em qualquer hardware?
 
+Gabriel Cavalcante, criador e desenvolvedor de DataSets para games da empresa MindPlus, necessita de uma ferramenta nova para um projeto recém estabelecido. [1] Necessita a disponibilização de dataset a partir de um jogo específico de terror, chamado Outcast.
+Neste projeto é necessário que as [11] emoções das pessoas sejam correlacionadas com o que está acontecendo no jogo, elementos, criaturas. Depois de pesquisar, [7] encontrou uma ferramenta facilitadora de criação de datasets que [3] poderia ser usada por qualquer pessoa, com o mesmo propósito que estava buscando.
+Para testar, [2] viu que necessitava de uma webcam, [10] um espaço bem iluminado, sem muito movimento e de um [12] computador de média potência para operar. Ao iniciar o teste, [4] foram tiradas várias capturas para o treinamento da ferramenta, depois realizou o treinamento e, por fim, conseguiu entrar no jogo e, [5] depois de terminada a sessão, [6] ver os resultados correlacionados.
+A partir dela, conseguiu, por meio de capturas de emoções e de cenário, contribuir com o projeto de maneira rápida, efetiva e de [9] uma maneira simplificada e inutitiva, [8] conseguindo ainda publicar o dataset publicamente para uso.
+<br>
 
 
 ## Coleta de dados (A FAZER)
