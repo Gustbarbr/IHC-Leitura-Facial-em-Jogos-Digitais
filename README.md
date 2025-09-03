@@ -200,14 +200,73 @@ O design inteligente e o fluxo lógico para o desenvolvimento da atividade torna
 
 ## Ambiente e contexto
 
-* Thiago Alberto Mendes:
-Thiagp
+### Thiago Alberto Mendes:
 * Perguntas:
 
-* Valter Alter
-* Perguntas:
+### Valter Alter
+  <table>
+   <tr>
+    <th>Elemento</th>
+    <th>Perguntas</th>
+   </tr>
+   <tr>
+    <td>Ambiente/Contexto</td>
+    <td>Onde Valter está quando interage com a ferramenta? Que recursos ele possui (computador, webcam, softwares)? Qual a situação que motiva o uso da aplicação?</td>
+   </tr>
+   <tr>
+    <td>Atores</td>
+    <td>Quem são os atores principais? Quem influencia ou participa indiretamente? Quais características pessoais impactam suas decisões?</td>
+   </tr>
+   <tr>
+    <td>Objetivos</td>
+    <td>O que Valter deseja alcançar com o uso da ferramenta? Quais resultados ele espera?</td>
+   </tr>
+   <tr>
+    <td>Planejamento</td>
+    <td>Quais estratégias ele define para chegar a esse objetivo? Ele planeja sozinho ou com ajuda? Ele já possui alguma experiência em coleta manual de dados?</td>
+   </tr>
+   <tr>
+    <td>Ações</td>
+    <td>Quais ações observáveis ele realiza para usar a ferramenta?</td>
+   </tr>
+   <tr>
+    <td>Eventos</td>
+    <td>Quais reações externas podem ocorrer? (erro no software, travamento da webcam).</td>
+   </tr>
+   <tr>
+    <td>Avaliação</td>
+    <td>Como ele interpreta os resultados do uso da ferramenta? Ele consegue verificar se os datasets ficaram bons? Ele compara esforço contra benefício?</td>
+   </tr>
+  </table>
+* Perguntas:<br>
+1 - Onde a interação ocorre? Quais recursos estão disponíveis? Há restrições físicas, técnicas ou sociais? <br>
+2 - Quem são os usuários principais e secundários? Quais características influenciam o uso da aplicação? <br>
+3 - O que o usuário deseja alcançar? Há objetivos secundários? <br>
+4 - Como o usuário pretende atingir esses objetivos? Ele define uma estratégia? <br>
+5 - Quais passos o usuário executa? São automáticos ou manuais? <br>
+6 - Que acontecimentos externos influenciam a interação? <br>
+7 - Como o usuário interpreta os resultados? Há métricas de sucesso? <br>
+8 - O que leva o usuário a usar a aplicação? <br>
+9 - O usuário já tem experiência com tarefas semelhantes? <br>
+10 - Com que regularidade a aplicação será usada? <br>
+11 - Existem barreiras técnicas, sociais ou financeiras? <br>
+12 - Que apoios ou ferramentas externas são usados? <br>
+13 - Que tipo de retorno o usuário recebe da aplicação? <br>
+14 - O que o usuário espera a longo prazo? <br>
 
-* Gabriel Cavalcante
+Atores:
+Valter Alter, 58 anos, criador de conteúdo para jogos digitais no canal ClickGamesBR (1,3 milhão de inscritos no YouTube). Seus seguidores frequentemente pedem novidades, incluindo jogos que respondam às emoções dos jogadores.
+
+Narrativa:
+Valter está em seu escritório, equipado com um computador gamer de alto desempenho e uma webcam HD posicionada sobre o monitor [Q1]. Ele decidiu atender aos pedidos de seus seguidores criando um protótipo de jogo interativo baseado em emoções. Para isso, precisa coletar e organizar vídeos que relacionem expressões faciais e momentos de gameplay [Q2].
+
+Seu objetivo é gerar datasets de qualidade que possam ser usados para treinar um modelo de reconhecimento de emoções, reduzindo o tempo que ele gastaria se fizesse esse processo manualmente [Q3]. Ele planeja organizar campanhas no canal, pedindo para seguidores enviarem trechos de gameplay gravados com facecam, mas antes deseja testar a ferramenta com sua própria captura [Q4].
+
+Valter abre a aplicação, conecta a webcam e inicia o processo de captura [Q5]. Ele executa um jogo de ação em seu PC enquanto a ferramenta grava automaticamente suas expressões faciais em paralelo. Durante a sessão, algumas interrupções ocorrem: a iluminação ambiente interfere na precisão da captura e a webcam apresenta um pequeno delay [Q6].
+
+Ao final, a ferramenta gera um dataset com imagens rotuladas automaticamente. Valter avalia o resultado, observando que, apesar de alguns erros de classificação, a ferramenta poupou horas de trabalho manual e já fornece um material consistente para testes [Q7]. Ele conclui que, com pequenos ajustes de iluminação e configuração, poderá expandir o uso da ferramenta para o público do seu canal.
+
+### Gabriel Cavalcante
 * Perguntas:
  
 ## Coleta de dados (A FAZER)
