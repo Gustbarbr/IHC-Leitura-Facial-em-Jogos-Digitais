@@ -201,10 +201,10 @@ O design inteligente e o fluxo lógico para o desenvolvimento da atividade torna
 ## Ambiente e contexto
 
 ### Thiago Alberto Mendes:
-### Perguntas:
+#### Perguntas:
 
 ### Valter Alter  
-### Perguntas de refinamento: <br>
+#### Perguntas de refinamento: <br>
 1 - Onde a interação ocorre? Quais recursos estão disponíveis? Há restrições físicas, técnicas ou sociais? <br>
 2 - Quem são os usuários principais e secundários? Quais características influenciam o uso da aplicação? <br>
 3 - O que o usuário deseja alcançar? Há objetivos secundários? <br>
@@ -220,10 +220,10 @@ O design inteligente e o fluxo lógico para o desenvolvimento da atividade torna
 13 - Que tipo de retorno o usuário recebe da aplicação? <br>
 14 - O que o usuário espera a longo prazo? <br>
 
-### Atores:
+#### Atores:
 Valter Alter, 58 anos, criador de conteúdo para jogos digitais no canal ClickGamesBR (1,3 milhão de inscritos no YouTube). Seus seguidores frequentemente pedem novidades, incluindo jogos que respondam às emoções dos jogadores.
 
-### Narrativa:
+#### Narrativa:
 Valter está em seu escritório, equipado com um computador gamer de alto desempenho e uma webcam HD posicionada sobre o monitor [Q1]. Ele decidiu atender aos pedidos de seus seguidores criando um protótipo de jogo interativo baseado em emoções. Para isso, precisa coletar e organizar vídeos que relacionem expressões faciais e momentos de gameplay [Q2].
 
 Seu objetivo é gerar datasets de qualidade que possam ser usados para treinar um modelo de reconhecimento de emoções, reduzindo o tempo que ele gastaria se fizesse esse processo manualmente [Q3]. Ele planeja organizar campanhas no canal, pedindo para seguidores enviarem trechos de gameplay gravados com facecam, mas antes deseja testar a ferramenta com sua própria captura [Q4].
@@ -233,7 +233,7 @@ Valter abre a aplicação, conecta a webcam e inicia o processo de captura [Q5].
 Ao final, a ferramenta gera um dataset com imagens rotuladas automaticamente. Valter avalia o resultado, observando que, apesar de alguns erros de classificação, a ferramenta poupou horas de trabalho manual e já fornece um material consistente para testes [Q7]. Ele conclui que, com pequenos ajustes de iluminação e configuração, poderá expandir o uso da ferramenta para o público do seu canal.
 
 ### Gabriel Cavalcante:
-### Perguntas de refinamento:
+#### Perguntas de refinamento:
 1. Por que o ator quer utilizar a ferramenta?
 2. Quais as pré-condições para a utilização?
 3. Quem pode utilizar a ferramenta?
@@ -247,7 +247,11 @@ Ao final, a ferramenta gera um dataset com imagens rotuladas automaticamente. Va
 11. O projeto usa qual artifício como base de processamento?
 12. A ferramenta trabalha em qualquer hardware?
 
-Gabriel Cavalcante, criador e desenvolvedor de DataSets para games da empresa MindPlus, necessita de uma ferramenta nova para um projeto recém estabelecido. [1] Necessita a disponibilização de dataset a partir de um jogo específico de terror, chamado Outcast.
+#### Atores:
+Gabriel Cavalcante, 43 anos, trabalha na empresa MindPlus. Semanalmente precisa criar datasets para outras empresas, cujo foco é o desenvolvimento de jogos.
+
+### Narrativa:
+Gabriel, está em seu escritório dentro das instalações da empresa MindPlus. [1] Ele necessita da disponibilização de dataset a partir de um jogo específico de terror, chamado Outcast.
 Neste projeto é necessário que as [11] emoções das pessoas sejam correlacionadas com o que está acontecendo no jogo, elementos, criaturas. Depois de pesquisar, [7] encontrou uma ferramenta facilitadora de criação de datasets que [3] poderia ser usada por qualquer pessoa, com o mesmo propósito que estava buscando.
 Para testar, [2] viu que necessitava de uma webcam, [10] um espaço bem iluminado, sem muito movimento e de um [12] computador de média potência para operar. Ao iniciar o teste, [4] foram tiradas várias capturas para o treinamento da ferramenta, depois realizou o treinamento e, por fim, conseguiu entrar no jogo e, [5] depois de terminada a sessão, [6] ver os resultados correlacionados.
 A partir dela, conseguiu, por meio de capturas de emoções e de cenário, contribuir com o projeto de maneira rápida, efetiva e de [9] uma maneira simplificada e inutitiva, [8] conseguindo ainda publicar o dataset publicamente para uso.
