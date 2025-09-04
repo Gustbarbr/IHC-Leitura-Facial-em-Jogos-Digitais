@@ -7,7 +7,15 @@
 3. Refinamento do Cenário Análise/Problema
 -->
 ### Thiago Alberto Mendes:
-#### Perguntas:
+#### Perguntas de refinamento: <br>
+1 - Como esse produto afeta a proximidade entre jogo e jogador? <br>
+2 - O que o usuário deve fazer para possuir uma variedade no dataset? <br>
+3 - Por quê é interessante fazer a coleta desses dados para indústria de jogos? <br>
+4 - Como o usuário aprenderá a usar o produto? <br>
+5 - A indústria de jogos é a única que terá benefícios com esse produto? Como afeta outras indústrias? <br>
+6 - Qual métrica é usada para definir a confiabilidade do sistema e como é calculada? <br>
+7 - Em qual etapa do desenvolvimento de jogo deve ser utilizada a aplicação? <br>
+
 
 ### Valter Alter  
 #### Perguntas de refinamento: <br>
