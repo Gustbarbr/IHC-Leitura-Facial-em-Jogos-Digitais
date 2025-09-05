@@ -205,56 +205,57 @@ O design inteligente e o fluxo lógico para o desenvolvimento da atividade torna
 
 ### Valter Alter  
 #### Perguntas de refinamento: <br>
-1 - Onde a interação ocorre? Quais recursos estão disponíveis? Há restrições físicas, técnicas ou sociais? <br>
-2 - Quem são os usuários principais e secundários? Quais características influenciam o uso da aplicação? <br>
-3 - O que o usuário deseja alcançar? Há objetivos secundários? <br>
-4 - Como o usuário pretende atingir esses objetivos? Ele define uma estratégia? <br>
-5 - Quais passos o usuário executa? São automáticos ou manuais? <br>
-6 - Que acontecimentos externos influenciam a interação? <br>
-7 - Como o usuário interpreta os resultados? Há métricas de sucesso? <br>
-8 - O que leva o usuário a usar a aplicação? <br>
-9 - O usuário já tem experiência com tarefas semelhantes? <br>
-10 - Com que regularidade a aplicação será usada? <br>
-11 - Existem barreiras técnicas, sociais ou financeiras? <br>
-12 - Que apoios ou ferramentas externas são usados? <br>
-13 - Que tipo de retorno o usuário recebe da aplicação? <br>
-14 - O que o usuário espera a longo prazo? <br>
+1 - Quem pode/deve cadastrar os dados de gameplay e expressões faciais no sistema? <br>
+2 - Quando são cadastradas as sessões de jogo para geração de datasets? <br>
+3 - Quem fornece os dados de gameplay e das expressões? <br>
+4 - Quais dados de gameplay e faciais devem ser cadastrados? <br>
+5 - Quantas sessões de captura são realizadas em cada período? <br>
+6 - Quem pode contribuir com gravações de gameplay e expressões? <br>
+7 - Que dados são necessários para cadastrar um seguidor como participante externo? <br>
+8 - Como são obtidos os vídeos enviados por seguidores? <br>
+9 - De quem depende a conclusão do cadastro de um dataset? <br>
+10 - De que informações Valter e seus seguidores precisam para confirmar que o dataset foi gerado corretamente? <br>
+11 - Como um participante confirma que seu material foi aceito? <br>
+12 - Em que pontos a interação de Valter com a aplicação pode ser mais eficiente? <br>
+13 - Como Valter entra em contato com seus seguidores para organizar o envio dos dados? <br>
+14 - Quem precisa ser notificado quando um dataset é concluído? <br>
 
 #### Atores:
 Valter Alter, 58 anos, criador de conteúdo para jogos digitais no canal ClickGamesBR (1,3 milhão de inscritos no YouTube). Seus seguidores frequentemente pedem novidades, incluindo jogos que respondam às emoções dos jogadores.
 
 #### Narrativa:
-Valter está em seu escritório, equipado com um computador gamer de alto desempenho e uma webcam HD posicionada sobre o monitor [Q1]. Ele decidiu atender aos pedidos de seus seguidores criando um protótipo de jogo interativo baseado em emoções. Para isso, precisa coletar e organizar vídeos que relacionem expressões faciais e momentos de gameplay [Q2].
+Valter Alter, 58 anos, é criador do canal **ClickGamesBR**. Ele utiliza seu **PC gamer e webcam HD em seu estúdio** [Q1]. **Os atores principais são Valter e seus seguidores**, que podem enviar gravações de gameplay [Q2]. **Seu objetivo é gerar datasets de emoções para criar jogos interativos** e, como meta secundária, inovar no canal [Q3].
 
-Seu objetivo é gerar datasets de qualidade que possam ser usados para treinar um modelo de reconhecimento de emoções, reduzindo o tempo que ele gastaria se fizesse esse processo manualmente [Q3]. Ele planeja organizar campanhas no canal, pedindo para seguidores enviarem trechos de gameplay gravados com facecam, mas antes deseja testar a ferramenta com sua própria captura [Q4].
+Primeiro, **testa a ferramenta em suas próprias lives** e depois planeja campanhas para receber vídeos dos seguidores [Q4]. Durante o uso, conecta a webcam e deixa a aplicação registrar automaticamente suas expressões [Q5]. A iluminação e qualidade da câmera podem interferir nos resultados [Q6]. Valter avalia os datasets verificando se as expressões correspondem às situações de jogo [Q7].
 
-Valter abre a aplicação, conecta a webcam e inicia o processo de captura [Q5]. Ele executa um jogo de ação em seu PC enquanto a ferramenta grava automaticamente suas expressões faciais em paralelo. Durante a sessão, algumas interrupções ocorrem: a iluminação ambiente interfere na precisão da captura e a webcam apresenta um pequeno delay [Q6].
-
-Ao final, a ferramenta gera um dataset com imagens rotuladas automaticamente. Valter avalia o resultado, observando que, apesar de alguns erros de classificação, a ferramenta poupou horas de trabalho manual e já fornece um material consistente para testes [Q7]. Ele conclui que, com pequenos ajustes de iluminação e configuração, poderá expandir o uso da ferramenta para o público do seu canal.
+Ele escolhe a ferramenta por economizar tempo em relação à rotulagem manual [Q8]. Já tem experiência com gravações, mas não com análise automática de emoções [Q9]. **Pretende usar a aplicação regularmente em transmissões e gravações** [Q10]. Entre as barreiras estão iluminação inadequada e custos de equipamento [Q11]. Ele conta com softwares de edição e plataformas de streaming como apoio [Q12]. O retorno é a criação rápida de datasets rotulados [Q13]. A longo prazo, espera consolidar sua imagem como criador inovador [Q14].
 
 ### Gabriel Cavalcante:
 #### Perguntas de refinamento:
-1. Por que o ator quer utilizar a ferramenta?
-2. Quais as pré-condições para a utilização?
-3. Quem pode utilizar a ferramenta?
-4. Como é feito o processo de utilização?
-5. Como o usuário sabe que o processo acabou?
-6. Qual é o resultado da utilização da ferramenta?
-7. Para que a ferramenta é utilizadda?
-8. A ferramenta pode ir além?
-9. A ferramenta é fácil de ser utilizada?
-10. Como deve ser o ambiente?
-11. O projeto usa qual artifício como base de processamento?
-12. A ferramenta trabalha em qualquer hardware?
+1. Quem pode/deve cadastrar os dados de sessões de jogo e emoções no sistema?<br>
+2. Quando são cadastradas as sessões de teste para geração dos datasets?<br>
+3. Quem fornece os dados necessários (jogadores, equipe de coleta, clientes)?<br>
+4. Quais informações de gameplay e expressões devem ser cadastradas?<br>
+5. Quantas sessões de coleta geralmente são realizadas por projeto?<br>
+6. Quem pode participar como jogador/usuário nas sessões de captura?<br>
+7. Que dados são necessários para cadastrar um jogador externo no sistema?<br>
+8. Como são obtidos os dados dos jogadores (capturas automáticas, formulários, vídeos)?<br>
+9. De quem depende a conclusão da criação de um dataset (Gabriel, equipe, ferramenta)?<br>
+10. De que informações Gabriel e a equipe precisam para validar os datasets criados?<br>
+11. Como um cliente confirma que o dataset atende suas necessidades?<br>
+12. Em que pontos a interação de Gabriel com a ferramenta pode ser mais eficiente?<br>
+13. Como Gabriel entra em contato com jogadores ou clientes envolvidos no processo?<br>
+14. Quem precisa ser notificado quando um dataset é concluído (Gabriel, equipe, empresa cliente)?<br>
 
 #### Atores:
 Gabriel Cavalcante, 43 anos, trabalha na empresa MindPlus. Semanalmente precisa criar datasets para outras empresas, cujo foco é o desenvolvimento de jogos.
 
 ### Narrativa:
-Gabriel, está em seu escritório dentro das instalações da empresa MindPlus. [1] Ele necessita da disponibilização de dataset a partir de um jogo específico de terror, chamado Outcast.
-Neste projeto é necessário que as [11] emoções das pessoas sejam correlacionadas com o que está acontecendo no jogo, elementos, criaturas. Depois de pesquisar, [7] encontrou uma ferramenta facilitadora de criação de datasets que [3] poderia ser usada por qualquer pessoa, com o mesmo propósito que estava buscando.
-Para testar, [2] viu que necessitava de uma webcam, [10] um espaço bem iluminado, sem muito movimento e de um [12] computador de média potência para operar. Ao iniciar o teste, [4] foram tiradas várias capturas para o treinamento da ferramenta, depois realizou o treinamento e, por fim, conseguiu entrar no jogo e, [5] depois de terminada a sessão, [6] ver os resultados correlacionados.
-A partir dela, conseguiu, por meio de capturas de emoções e de cenário, contribuir com o projeto de maneira rápida, efetiva e de [9] uma maneira simplificada e inutitiva, [8] conseguindo ainda publicar o dataset publicamente para uso.
+Gabriel Cavalcante, 43 anos, **trabalha na MindPlus**, em um **escritório com computadores potentes e webcams** [Q1]. **O ator principal é Gabriel**; **secundários são jogadores** que participam dos testes e os clientes que recebem os datasets [Q2]. **Seu objetivo é produzir datasets personalizados de emoções**, reduzindo tempo de coleta manual [Q3].
+
+Ele organiza sessões, ajusta ambiente e executa a ferramenta para capturar expressões durante o gameplay [Q4–Q5]. Fatores como ruído ou iluminação podem interferir [Q6]. Gabriel avalia os resultados comparando emoções detectadas com eventos do jogo [Q7].
+
+O que o leva a usar a aplicação é a **necessidade de gerar datasets sob demanda de forma mais rápida** [Q8]. Ele tem experiência com dados, mas o reconhecimento facial automatizado é novidade [Q9]. O uso é frequente, semanal ou diário [Q10]. As barreiras envolvem limitações técnicas e prazos apertados [Q11]. Como apoio, usa bibliotecas de IA e softwares estatísticos [Q12]. O retorno é a entrega de datasets prontos e consistentes [Q13]. A longo prazo, espera fortalecer sua carreira e consolidar a MindPlus no mercado [Q14].
 <br>
 
 
