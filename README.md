@@ -263,6 +263,38 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 ### Criar Dataset:
 * HTA:
 <img width="495" height="452" alt="Diagrama sem nome drawio" src="https://github.com/user-attachments/assets/cd3b6be8-4e29-43ae-b5ef-3ab5bb5fbea4" />
+
+<table>
+ <tr>
+  <th>Objetivos / Operações</th>
+  <th>Problemas e recomendações</th>
+ </tr>
+ <tr>
+  <td>Criar Dataset</td>
+ </tr>
+ <tr>
+  <td>Escolha do hardware</td>
+ </tr>
+  <tr>
+  <td>Planejamento de cenário</td>
+ </tr>
+  <tr>
+  <td>Adicionar nome do dataset</td>
+ </tr>
+   <tr>
+  <td>Clicar no botão</td>
+ </tr>
+ </tr>
+   <tr>
+  <td>Adicionar número de capturas</td>
+ </tr>
+   <tr>
+  <td>Esperar a conclusão de capturas de imagem</td>
+ </tr>
+ 
+</table>
+
+
 * GOMS
 * CTT
 
