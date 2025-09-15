@@ -270,26 +270,43 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
   <th>Problemas e recomendações</th>
  </tr>
  <tr>
-  <td>Criar Dataset</td>
+  <td>1. Criar Dataset</td>
+  <td>Input: Nome a ser utilizado no dataset e quantidade de capturas de rosto. <br>
+  Feedback: As imagens coletadas são salvas em uma pasta com o nome adicionado. <br>
+  Plano: Informar o nome do usuário e criar um dataset com uma grande quantidade de imagens, para ter um melhor resultado. <br>
+  Recomendação: Utilizar uma boa webcam e estar em um ambiente com boa iluminação, pouco movimento. Assim como um  hardware mediano e uma quantidade grande de imagens.
+  </td>
  </tr>
  <tr>
-  <td>Escolha do hardware</td>
+  <td>1.1. Escolha do hardware</td>
+  <td>Recomendação: É necessário a utilização de uma webcam de qualidade igual ou maior que 720p, assim como ter um hardware de média potência, para uma maior fluidez e rapidez na execução do programa.</td>
  </tr>
   <tr>
-  <td>Planejamento de cenário</td>
+  <td>1.1.1. Planejamento de cenário</td>
+   <td>Recomendação: É necessário manter o ambiente em que o teste é executado limpo e sem ruídos, com boa iluminação e sem muitos movimentos atrás do usuário.</td>
  </tr>
   <tr>
-  <td>Adicionar nome do dataset</td>
+  <td>1.2. Adicionar nome do dataset</td>
+   <td>Input: Recebe de entrada uma string. <br>
+   Feedback: após a execução final da tarefa, é possível visualizar nos arquivos do computador uma pasta com o nome inserido.
+   </td>
  </tr>
    <tr>
-  <td>Clicar no botão</td>
+  <td>1.3. Clicar no botão</td>
+    <td>Feedback: Ao clicar no botão, uma janela aparecerá para adicionar a quantidade de capturas.</td>
  </tr>
  </tr>
    <tr>
-  <td>Adicionar número de capturas</td>
+  <td>1.3.1. Adicionar número de capturas</td>
+    <td>Input: O valor a ser inserido é um inteiro.
+    <br>
+    Recomendação: Quanto mais imagens forem tiradas, mais exemplos são utilizados no treinamento e, assim, melhor é o resultado final.
+    Feedback: A quantidade de imagens capturadas poderá ser visualizada na pasta do usuário com o nome inserido, no computador onde foi feito o processo.
+    </td>
  </tr>
    <tr>
-  <td>Esperar a conclusão de capturas de imagem</td>
+  <td>1.3.2. Esperar a conclusão de capturas de imagem</td>
+    <td>Feedback: Após a captura de imagens, a aba é finalizada.</td>
  </tr>
  
 </table>
