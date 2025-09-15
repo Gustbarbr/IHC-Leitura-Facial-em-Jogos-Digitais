@@ -300,15 +300,19 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 
 ### Iniciar reconhecimento
 * HTA:
-  <img width="898" height="703" alt="image" src="https://github.com/user-attachments/assets/797b1880-6430-452d-9d01-6ab325f7a77a" />
+<img width="495" height="452" alt="image" src="https://github.com/user-attachments/assets/797b1880-6430-452d-9d01-6ab325f7a77a" />
 
-  <table>
+<table>
  <tr>
   <th>Objetivos / Operações</th>
   <th>Problemas e recomendações</th>
  </tr>
  <tr>
   <td>0. Iniciar Reconhecimento</td>
+  <td>Input: Face do usuário no enquadro da webcam.<br>
+  Feedback: Frame do rosto do usuário é salvo em uma pasta com o nome da expressão demonstrada.<br>
+  Plano: Informar nome do usuário e criar o dataset com o maior número de frames possível.<br>
+  Recomendação: Criar um dataset por pessoa, estando em um ambiente isolado preferencialmente.</td>
  </tr>
  <tr>
   <td>1. Treinar dataset</td>
