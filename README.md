@@ -340,9 +340,8 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
       * (SEL.RULE: As imagens devem estar salvas na pasta criada com o nome fornecido);
         * OP. 5.1: Verificar quantidade de imagens salvas;
         * OP. 5.2: Confirmar encerramento da aba de captura.
-
-  
 * CTT
+<img width="1157" height="370" alt="image" src="https://github.com/user-attachments/assets/c9bb0c13-f4e6-42da-9ef5-9e80ebac2b4d" />
 
 ### Iniciar reconhecimento
 * HTA:
