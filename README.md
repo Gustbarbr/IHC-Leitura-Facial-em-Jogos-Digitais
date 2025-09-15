@@ -298,6 +298,22 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 * GOMS
 * CTT
 
+### Iniciar reconhecimento
+* HTA
+* GOMS
+  *	Goal 0: Salvar a expressão facial de uma pessoa
+    *	Goal 1: Capturar a expressão facial
+      *	Method 1: Clicar no botão “Criar dataset”;
+        *	(SEL.RULE: O usuário precisa aparecer na webcam);
+          *	OP. 1.1: Mover a webcam para reconhecer todo o rosto;
+          *	OP. 1.2: Ajustar o enquadramento da webcam;
+          *	OP. 1.3: Utilizar uma webcam de maior resolução.
+  *	Goal 2: Salvar a expressão facial
+    *	Method 1: Clicar no botão “Treinar dataset” e em seguida clicar no botão “Iniciar Reconhecimento”;
+      *	(SEL.RULE: A pessoa que aparece na webcam após clicar em “Iniciar Reconhecimento” deve ser a mesma que apareceu durante o “Criar Dataset”);
+         *	OP. 1.1: Utilizar de preferência em ambientes isolados.
+
+* CTT
 
 ## Coleta de dados (A FAZER)
 
