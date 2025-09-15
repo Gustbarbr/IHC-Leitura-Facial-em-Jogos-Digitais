@@ -261,8 +261,10 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 ## Análise de tarefas (A FAZER)
 
 ### Criar Dataset:
-* HTC:
+* HTA:
 <img width="495" height="452" alt="Diagrama sem nome drawio" src="https://github.com/user-attachments/assets/cd3b6be8-4e29-43ae-b5ef-3ab5bb5fbea4" />
+* GOMS
+* CTT
 
 
 ## Coleta de dados (A FAZER)
