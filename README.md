@@ -316,12 +316,16 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
  </tr>
  <tr>
   <td>1. Treinar dataset</td>
+  <td>Input: Frames dos rostos do usuário.</td>
  </tr>
   <tr>
   <td>1.1. Criar dataset</td>
+   <tb>Plano: Informar nome do usuário e quantia de frames desejada.<br>
+   Feedback: Fonte de alimento para a ferramenta.</tb>
  </tr>
   <tr>
   <td>1.1.1. Informar nome</td>
+   <td>Plano: Informar nome do usuário atual.</td>
  </tr>
  <tr>
   <td>1.1.2. Clicar no botão</td>
@@ -329,12 +333,14 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
  </tr>
  <tr>
   <td>1.1.2.1. Inserir a quantia de capturas desejadas</td>
+  <td>Problema: Valores muito altos na quantidade de captura podem gerar travamentos, a depender do hardware.</td>
  </tr>
  <tr>
   <td>2. Clicar no botão de iniciar reconhecimento</td>
  </tr>
  <tr>
   <td>3. Ajuste de hardware</td>
+  <td>Problema: Hardwares mais antigos ou webcams de baixa resolução podem não cumprir com o necessário para o reconhecimento.</td>
  </tr>
  <tr>
   <td>3.1. Cenário isolado</td>
