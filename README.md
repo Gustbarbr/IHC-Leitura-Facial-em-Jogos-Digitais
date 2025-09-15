@@ -299,9 +299,50 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 * CTT
 
 ### Iniciar reconhecimento
-* HTA
-* GOMS
-  *	Goal 0: Salvar a expressão facial de uma pessoa
+* HTA:
+  <img width="898" height="703" alt="image" src="https://github.com/user-attachments/assets/797b1880-6430-452d-9d01-6ab325f7a77a" />
+
+  <table>
+ <tr>
+  <th>Objetivos / Operações</th>
+  <th>Problemas e recomendações</th>
+ </tr>
+ <tr>
+  <td>0. Iniciar Reconhecimento</td>
+ </tr>
+ <tr>
+  <td>1. Treinar dataset</td>
+ </tr>
+  <tr>
+  <td>1.1. Criar dataset</td>
+ </tr>
+  <tr>
+  <td>1.1.1. Informar nome</td>
+ </tr>
+ <tr>
+  <td>1.1.2. Clicar no botão</td>
+ </tr>
+ </tr>
+ <tr>
+  <td>1.1.2.1. Inserir a quantia de capturas desejadas</td>
+ </tr>
+ <tr>
+  <td>2. Clicar no botão de iniciar reconhecimento</td>
+ </tr>
+ <tr>
+  <td>3. Ajuste de hardware</td>
+ </tr>
+ <tr>
+  <td>3.1. Cenário isolado</td>
+ </tr>
+ <tr>
+  <td>3.1.1. Webcam de boa resolução</td>
+ </tr>
+ 
+</table>
+
+* GOMS:
+  *	Goal 0: Salvar a expressão facial de uma pessoa (realizar reconhecimento facial)
     *	Goal 1: Capturar a expressão facial
         *	Method 1: Clicar no botão “Criar dataset”;
         *	(SEL.RULE: O usuário precisa aparecer na webcam);
@@ -313,7 +354,7 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
         *	(SEL.RULE: A pessoa que aparece na webcam após clicar em “Iniciar Reconhecimento” deve ser a mesma que apareceu durante o “Criar Dataset”);
              *	OP. 1.1: Utilizar de preferência em ambientes isolados.
 
-* CTT
+* CTT:
 
 ## Coleta de dados (A FAZER)
 
