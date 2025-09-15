@@ -258,6 +258,7 @@ Ele organiza sessões, ajusta ambiente e executa a ferramenta para capturar expr
 O que o leva a usar a aplicação é a **necessidade de gerar datasets sob demanda de forma mais rápida** [Q8]. Ele tem experiência com dados, mas o reconhecimento facial automatizado é novidade [Q9]. O uso é frequente, semanal ou diário [Q10]. As barreiras envolvem limitações técnicas e prazos apertados [Q11]. Como apoio, usa bibliotecas de IA e softwares estatísticos [Q12]. O retorno é a entrega de datasets prontos e consistentes [Q13]. A longo prazo, espera fortalecer sua carreira e consolidar a MindPlus no mercado [Q14].
 <br>
 
+## Análise de tarefas (A FAZER)
 
 ## Coleta de dados (A FAZER)
 
