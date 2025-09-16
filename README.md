@@ -414,6 +414,8 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
              *	OP. 1.1: Utilizar de preferência em ambientes isolados.
 
 * CTT:
+<img width="860" height="365" alt="image" src="https://github.com/user-attachments/assets/6f7347e8-fcdf-4a46-b701-456745575730" />
+
 
 ## Coleta de dados (A FAZER)
 
