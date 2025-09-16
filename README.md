@@ -258,7 +258,7 @@ Ele organiza sessões, ajusta ambiente e executa a ferramenta para capturar expr
 O que o leva a usar a aplicação é a **necessidade de gerar datasets sob demanda de forma mais rápida** [Q8]. Ele tem experiência com dados, mas o reconhecimento facial automatizado é novidade [Q9]. O uso é frequente, semanal ou diário [Q10]. As barreiras envolvem limitações técnicas e prazos apertados [Q11]. Como apoio, usa bibliotecas de IA e softwares estatísticos [Q12]. O retorno é a entrega de datasets prontos e consistentes [Q13]. A longo prazo, espera fortalecer sua carreira e consolidar a MindPlus no mercado [Q14].
 <br>
 
-## Análise de tarefas (A FAZER)
+## Análise de tarefas
 
 ### Criar Dataset:
 * HTA:
@@ -341,7 +341,7 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
         * OP. 5.1: Verificar quantidade de imagens salvas;
         * OP. 5.2: Confirmar encerramento da aba de captura.
 * CTT
-<img width="1157" height="370" alt="image" src="https://github.com/user-attachments/assets/c9bb0c13-f4e6-42da-9ef5-9e80ebac2b4d" />
+<img width="860" height="385" alt="Diagrama sem nome drawio" src="https://github.com/user-attachments/assets/055f9ddc-5f59-475b-bb20-c174368a9488" />
 
 ### Iniciar reconhecimento
 * HTA:
