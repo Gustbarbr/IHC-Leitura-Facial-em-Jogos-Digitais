@@ -327,14 +327,24 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
     * Goal 3: Adicionar nome do dataset
       * Method 1: Inserir nome do usuário
       * (SEL.RULE: O nome inserido deve ser uma string);
-        * OP. 3.1: Digitar string com o nome do dataset;
-        * OP. 3.2: Confirmar criação da pasta.
+        * OP. 3.1.1: Digitar string com o nome do dataset;
+        * OP. 3.1.2: Confirmar criação da pasta.
+      * Method 2: Inserir nome do usuário por meio de voz
+      * (SEL.RULE: O nome inserido deverá ser comunicado por voz);
+        * OP. 3.2.1: Falar o nome do dataset para o programa;
+        * OP. 3.2.2: Confirmar criação da pasta.
     * Goal 4: Capturar imagens do rosto
       * Method 1: Configurar capturas por meio de botão
       * (SEL.RULE: O usuário deve clicar no botão para definir a quantidade de capturas);
-        * OP. 4.1: Clicar no botão “Criar Dataset”;
-        * OP. 4.2: Inserir número de capturas (inteiro);
-        * OP. 4.3: Esperar conclusão das capturas.
+        * OP. 4.1.1: Clicar no botão “Criar Dataset”;
+        * OP. 4.1.2: Inserir número de capturas (inteiro);
+        * OP. 4.1.3: Esperar conclusão das capturas.
+      * Method2: Configurar capturas por meio do teclado
+      * (SEL.RULE: O usuário deve clicar no botão enter do teclado para definir a quantidade de capturas);
+        * OP. 4.2.1: Clicar no botão “Criar Dataset”;
+        * OP. 4.2.2: Inserir número de capturas (inteiro);
+        * OP. 4.2.3: Pressionar o botao Enter do teclado;
+        * OP. 4.2.4: Esperar conclusão das capturas.
     * Goal 5: Salvar dataset criado
       * Method 1: Finalizar processo e validar resultados
       * (SEL.RULE: As imagens devem estar salvas na pasta criada com o nome fornecido);
