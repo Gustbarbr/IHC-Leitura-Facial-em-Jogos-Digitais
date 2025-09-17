@@ -348,7 +348,7 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 
 ### Iniciar reconhecimento
 * HTA:
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e03c8366-0478-4c90-a440-72c82321c758" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/e03c8366-0478-4c90-a440-72c82321c758" />
 
 <table>
  <tr>
@@ -415,7 +415,8 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
            * OP. 1.3: Utilizar uma webcam de maior resolução.
 
 * CTT:
-<img width="860" height="365" alt="image" src="https://github.com/user-attachments/assets/6f7347e8-fcdf-4a46-b701-456745575730" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b6690f0e-d429-460a-8072-03a8171345ed" />
+
 
 
 ## Coleta de dados (A FAZER)
