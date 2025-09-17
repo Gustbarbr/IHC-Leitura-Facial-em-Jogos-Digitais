@@ -348,7 +348,7 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 
 ### Iniciar reconhecimento
 * HTA:
-<img width="495" height="452" alt="image" src="https://github.com/user-attachments/assets/797b1880-6430-452d-9d01-6ab325f7a77a" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e03c8366-0478-4c90-a440-72c82321c758" />
 
 <table>
  <tr>
