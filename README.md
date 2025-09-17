@@ -410,9 +410,9 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
     * Goal 3: Configuração da webcam
       *	Method 1: Ajustar webcam:
       * (SEL. RULE: O usuário deve aparecer na webcam);
-            * OP. 1.1: Mover a webcam para reconhecer todo o rosto;
-            * OP. 1.2: Ajustar o enquadramento da webcam;
-            * OP. 1.3: Utilizar uma webcam de maior resolução.
+           * OP. 1.1: Mover a webcam para reconhecer todo o rosto;
+           * OP. 1.2: Ajustar o enquadramento da webcam;
+           * OP. 1.3: Utilizar uma webcam de maior resolução.
 
 * CTT:
 <img width="860" height="365" alt="image" src="https://github.com/user-attachments/assets/6f7347e8-fcdf-4a46-b701-456745575730" />
