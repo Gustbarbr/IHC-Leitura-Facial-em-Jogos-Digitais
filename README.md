@@ -383,12 +383,13 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
  </tr>
  <tr>
   <td>2.1. Cenário isolado</td>
-  <td>Problema: Se houverem várias pessoas no alcance da webcam, a ferramenta poderá ter problemas para reconhecer o usuário principal.<<br>
-  Recomendação: Sempre que possível, utilizar a ferramenta onde o alcance da webcam atinja apenas uma pessoa./td>
+  <td>Problema: Se houverem várias pessoas no alcance da webcam, a ferramenta poderá ter problemas para reconhecer o usuário principal.<br>
+  Recomendação: Sempre que possível, utilizar a ferramenta onde o alcance da webcam atinja apenas uma pessoa.</td>
  </tr>
  <tr>
   <td>2.2. Webcam de boa resolução</td>
-  <td></td>
+  <td>Problema: Webcams de baixa resolução, trincadas ou sujas podem não reconhecer corretamente o rosto do usuário.<br>
+  Recomendação: É recomendado o uso de uma webcam de no mínimo 720p, de preferência limpa e sem rachaduras.</td>
  </tr>
  
 </table>
@@ -396,15 +397,22 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 * GOMS:
   *	Goal 0: Salvar a expressão facial de uma pessoa (realizar reconhecimento facial)
     *	Goal 1: Capturar a expressão facial
-        *	Method 1: Clicar no botão “Criar dataset”;
-        *	(SEL.RULE: O usuário precisa aparecer na webcam);
-            *	OP. 1.1: Mover a webcam para reconhecer todo o rosto;
-            *	OP. 1.2: Ajustar o enquadramento da webcam;
-            *	OP. 1.3: Utilizar uma webcam de maior resolução.
+        *	Method 1.A: Clicar em “Criar dataset” utilizando um mouse;
+        *	(SEL.RULE: O usuário não possui tela touchscreen);
+            *	OP. 1.A.1: Direcionar o ponteiro até o botão;
+       * Method 1.B: Utilizar a função touchscreen para clicar em "Criar Dataset";
+       *	(SEL.RULE: O usuário possui um mouse com defeito);
+            *	OP. 1.B.1: Utilizar a função "touchscreen" do monitor para poder clicar no botão; 
     *	Goal 2: Salvar a expressão facial
         *	Method 1: Clicar no botão “Treinar dataset” e em seguida clicar no botão “Iniciar Reconhecimento”;
         *	(SEL.RULE: A pessoa que aparece na webcam após clicar em “Iniciar Reconhecimento” deve ser a mesma que apareceu durante o “Criar Dataset”);
              *	OP. 1.1: Utilizar de preferência em ambientes isolados.
+    * Goal 3: Configuração da webcam
+      *	Method 1: Ajustar webcam:
+      * (SEL. RULE: O usuário deve aparecer na webcam);
+            * OP. 1.1: Mover a webcam para reconhecer todo o rosto;
+            * OP. 1.2: Ajustar o enquadramento da webcam;
+            * OP. 1.3: Utilizar uma webcam de maior resolução.
 
 * CTT:
 <img width="860" height="365" alt="image" src="https://github.com/user-attachments/assets/6f7347e8-fcdf-4a46-b701-456745575730" />
