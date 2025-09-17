@@ -364,7 +364,8 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
  </tr>
  <tr>
   <td>1. Treinar dataset</td>
-  <td>Input: Frames dos rostos do usuário.</td>
+  <td>Input: Frames dos rostos do usuário.<br>
+  Plano: Utilizar as imagens capturadas para alimentar a ferramenta.</td>
  </tr>
  <tr>
   <td>1.1. Criar dataset</td>
@@ -373,32 +374,21 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
  </tr>
   <tr>
   <td>1.1.1. Informar nome</td>
-  <td>Plano: Informar nome do usuário atual.</td>
+  <td>Feedback: Uma pasta será criada após a execução, onde ela possuirá esse mesmo nome.</td>
  </tr>
  <tr>
-  <td>1.1.2. Clicar no botão</td>
-  <td>N/A</td>
- </tr>
- </tr>
- <tr>
-  <td>1.1.2.1. Inserir a quantia de capturas desejadas</td>
-  <td>Problema: Valores muito altos na quantidade de captura podem gerar travamentos, a depender do hardware.</td>
+  <td>1.1.2. Inserir a quantia de capturas desejadas</td>
+  <td>Problema: Valores muito altos na quantidade de captura podem gerar travamentos, a depender do hardware.<br>
+  Feedback: As imagens serão utilizadas na criação do dataset e posteriormente em seu treinamento.</td>
  </tr>
  <tr>
-  <td>2. Clicar no botão de iniciar reconhecimento</td>
-  <td>N/A</td>
+  <td>2.1. Cenário isolado</td>
+  <td>Problema: Se houverem várias pessoas no alcance da webcam, a ferramenta poderá ter problemas para reconhecer o usuário principal.<<br>
+  Recomendação: Sempre que possível, utilizar a ferramenta onde o alcance da webcam atinja apenas uma pessoa./td>
  </tr>
  <tr>
-  <td>3. Ajuste de hardware</td>
-  <td>Problema: Hardwares mais antigos ou webcams de baixa resolução podem não cumprir com o necessário para o reconhecimento.</td>
- </tr>
- <tr>
-  <td>3.1. Cenário isolado</td>
-  <td>N/A</td>
- </tr>
- <tr>
-  <td>3.1.1. Webcam de boa resolução</td>
-  <td>N/A</td>
+  <td>2.2. Webcam de boa resolução</td>
+  <td></td>
  </tr>
  
 </table>
