@@ -288,14 +288,18 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
   <tr>
   <td>'2. Adicionar nome do dataset</td>
    <td>Input: Recebe de entrada uma string. <br>
-   Feedback: após a execução final da tarefa, é possível visualizar nos arquivos do computador uma pasta com o nome inserido.
+   Feedback: após a execução final da tarefa, é possível visualizar nos arquivos do computador uma pasta com o nome inserido. <br>
+    Plano: Informar o nome a ser utilizado no dataset para a criação e organização de pastas.
    </td>
  </tr>
    <tr>
   <td>3. Capturar imagens do rosto</td>
-    <td>Input: Inteiro com a quantidade de capturas a serem realizadas.</td>
-    <td>Feedback: Ao clicar no botão de capturar rosto, uma janela aparecerá para adicionar a quantidade de capturas.</td>
-    <td>Recomendação: É recomendado utilizar um grande npumero de capturas, para obter um resultado melhor.</td>
+    <td>Input: Inteiro com a quantidade de capturas a serem realizadas.
+    Feedback: Ao clicar no botão de capturar rosto, uma janela aparecerá para adicionar a quantidade de capturas. <br>
+    Recomendação: É recomendado utilizar um grande npumero de capturas, para obter um resultado melhor. <br>
+     Plano: Informar o número de capturas que serão tiradas para o treinamento do sistema.
+    </td>
+    
  </tr>
  
 </table>
