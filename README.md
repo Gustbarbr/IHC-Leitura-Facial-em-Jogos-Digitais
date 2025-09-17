@@ -286,7 +286,7 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
    <td>Recomendação: É necessário manter o ambiente em que o teste é executado limpo e sem ruídos, com boa iluminação e sem muitos movimentos atrás do usuário.</td>
  </tr>
   <tr>
-  <td>'2. Adicionar nome do dataset</td>
+  <td>2. Adicionar nome do dataset</td>
    <td>Input: Recebe de entrada uma string. <br>
    Feedback: após a execução final da tarefa, é possível visualizar nos arquivos do computador uma pasta com o nome inserido. <br>
     Plano: Informar o nome a ser utilizado no dataset para a criação e organização de pastas.
