@@ -262,7 +262,7 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 
 ### Criar Dataset:
 * HTA:
-<img width="495" height="452" alt="Diagrama sem nome drawio" src="https://github.com/user-attachments/assets/cd3b6be8-4e29-43ae-b5ef-3ab5bb5fbea4" />
+<img width="951" height="371" alt="Diagrama sem nome drawio (1)" src="https://github.com/user-attachments/assets/f3bf49e6-3f59-4983-a4dc-2435b35a3e0f" />
 
 <table>
  <tr>
