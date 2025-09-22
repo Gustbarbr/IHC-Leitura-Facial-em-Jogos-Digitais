@@ -429,7 +429,12 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
     - Que tipo de acessibilidades devem ser consideradas dentro do seu projeto?
 - Discuta o papel das expectativas do usuário no projeto deste serviço ou poduto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou poduto?
 
-### Prototipação em baixo nível (papel) (A FAZER)
+## Prototipação em baixo nível (papel) (A FAZER)
+### Tela de inicialização / menu:
+![tela1](https://github.com/user-attachments/assets/ca96c1cd-db81-49fd-a01e-4570721f6f2b)
+### Tela de selecionar quantidade e tela de realizar capturas:
+![tela2_e_3](https://github.com/user-attachments/assets/ad47f073-060b-4c0d-a0cf-acd0f83ac5be)
+
 #### Avaliação heurística
 
 ### Prtotipação em médio nível (Figma) (A FAZER)
