@@ -433,7 +433,7 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 ### Tela de inicialização / menu:
 ![tela1](https://github.com/user-attachments/assets/ca96c1cd-db81-49fd-a01e-4570721f6f2b)
 ### Tela de selecionar quantidade e tela de realizar capturas:
-![tela2_e_3](https://github.com/user-attachments/assets/ad47f073-060b-4c0d-a0cf-acd0f83ac5be)
+![tela2_3](https://github.com/user-attachments/assets/3ad26864-f4c8-448f-aff3-89bc2e1154f3)
 
 #### Avaliação heurística
 
