@@ -436,6 +436,9 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 ![tela2_3](https://github.com/user-attachments/assets/3ad26864-f4c8-448f-aff3-89bc2e1154f3)
 ### Tela de treinar dataset e iniciar reconhecimento
 ![17c83d43-633f-40df-9390-9d6dde1a4ed8](https://github.com/user-attachments/assets/45fea3ae-069a-480a-aaaf-86488c702d92)
+### Tela de informações
+![d95a0803-a446-43bb-ae41-057f29e881f2](https://github.com/user-attachments/assets/4cd7e9cf-9698-416b-ac9b-92922b5bdc87)
+
 
 #### Avaliação heurística
 
