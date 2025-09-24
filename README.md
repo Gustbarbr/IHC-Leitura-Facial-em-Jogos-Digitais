@@ -331,12 +331,12 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
       * Method 1: Configurar capturas por meio de botão
       * (SEL.RULE: O usuário deve clicar no botão para definir a quantidade de capturas);
         * OP. 4.1.1: Clicar no botão “Criar Dataset”;
-        * OP. 4.1.2: Inserir número de capturas (inteiro);
+        * OP. 4.1.2: Inserir número de capturas (inteiro) e seu intervalo;
         * OP. 4.1.3: Esperar conclusão das capturas.
       * Method2: Configurar capturas por meio do teclado
       * (SEL.RULE: O usuário deve clicar no botão enter do teclado para definir a quantidade de capturas);
         * OP. 4.2.1: Clicar no botão “Criar Dataset”;
-        * OP. 4.2.2: Inserir número de capturas (inteiro);
+        * OP. 4.2.2: Inserir número de capturas (inteiro) e seu intervalo;
         * OP. 4.2.3: Pressionar o botao Enter do teclado;
         * OP. 4.2.4: Esperar conclusão das capturas.
     * Goal 5: Salvar dataset criado
