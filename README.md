@@ -345,7 +345,7 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
         * OP. 5.1: Verificar quantidade de imagens salvas;
         * OP. 5.2: Confirmar encerramento da aba de captura.
 * CTT
-<img width="595" height="586" alt="Diagrama sem nome drawio (2)" src="https://github.com/user-attachments/assets/35c2c914-c183-4a81-b618-6f67de93580c" />
+<img width="905" height="536" alt="meuCTTDownload drawio" src="https://github.com/user-attachments/assets/1bf6a5be-d7ea-4469-b39e-a92e60854185" />
 
 ### Iniciar reconhecimento
 * HTA:
