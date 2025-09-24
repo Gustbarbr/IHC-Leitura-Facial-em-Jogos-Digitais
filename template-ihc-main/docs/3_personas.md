@@ -19,7 +19,7 @@
 3. Gabriel Cavalcante, de 43 anos, trabalha como analista de dados na empresa Mind Plus, onde semanalmente necessita criar datasets para outras empresas, cujo foco principal das mesmas é o desenvolvimento de jogos. Essas empresas necessitam de datasets personalizados que consigam envolver o jogo e o jogador. Gabriel precisa de uma ferramenta que facilite a captação da emoção de pessoas enquanto jogam, dessa maneira consegue saber que tipos de jogos causariam, mais conforto, raiva e medo, a fim de auxiliar na criação de uma experiência customizada.<br>
 ### Mapa de empatia
 
-![Mapa de empatia](empatia.png)
+![Mapa de empatia](imagens/empatia.png)
 
 <!--
 - Determine o mapa de empatia[^1] de pelo menos uma persona primária e uma sercundária.
@@ -63,35 +63,6 @@
 - O que o usuário pensa e sente: Queria um jogo revolucionário, com que possa jogar e se divertir com os amigos. Sente que precisa logo arranjar um estágio, pois todos os seus amigos estão começando em um.
 - Dores: Precisa logo de um emprego e quer começar a estudar o desenvolvimento de jogos e datasets.
 - Ganhos: Ser bem sucedida, ter um foco profissional na área de games e ter vários amigos.
-
-# Mapa de empatia
-
-![Mapa de empatia](imagens/empatia.png)
-
-- Determine o mapa de empatia[1] de pelo menos uma persona primária e uma sercundária.
-  - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
-  - O que o usuário ouve: neste quadrante, buscamos entender o que o usuário está ouvindo, os sons que o cercam e como eles influenciam suas ações.
-  - O que o usuário diz e faz: aqui consideramos ações e comportamentos que o usuário apresenta durante sua interação com serviço ou poduto.
-  - O que o usuário pensa e sente: neste quadrante, buscamos entender os pensamentos, sentimentos, emoções e percepções que o usuário tem em relação ao serviço ou poduto. Quais expectativas o usuário cria sobre o serviço ou poduto?
-  Que tipo de serviço ou poduto mais agrada essa persona?
-  - Dores: quando falamos sobre dores do usuário, estamos fazendo referência a quaisquer obstáculos, necessidades ou frustrações que o usuário possa experimentar ao tentar realizar uma tarefa ou alcançar um objetivo. Isso inclui, por exemplo, problemas de usabilidade, dificuldades de acesso ou outros desafios que podem afetar a experiência do usuário.
-  - Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou poduto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou poduto satisfaz?
-
-# Contexto de uso
-
-- Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
-- Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
-- Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
-- O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
-
-# Jornada do usuário
-
-- Criar uma narrativa para o o seu serviço ou poduto com o usuário.
-- Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
-  - Descreva o que acontece ou pode acontecer passo a passo
-  - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
-
-
 
 
 [1] Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
