@@ -279,11 +279,11 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
   </td>
  </tr>
  <tr>
-  <td>1.1. Escolha do hardware</td>
+  <td>1. Escolha do hardware</td>
   <td>Recomendação: É necessário a utilização de uma webcam de qualidade igual ou maior que 720p, assim como ter um hardware de média potência, para uma maior fluidez e rapidez na execução do programa.</td>
  </tr>
   <tr>
-  <td>1.2. Planejamento de cenário</td>
+  <td>2. Planejamento de cenário</td>
    <td>Recomendação: É necessário manter o ambiente em que o teste é executado limpo e sem ruídos, com boa iluminação e sem muitos movimentos atrás do usuário.</td>
  </tr>
   <tr>
@@ -295,10 +295,10 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
  </tr>
    <tr>
   <td>3. Capturar imagens do rosto</td>
-    <td>Input: Inteiro com a quantidade de capturas a serem realizadas.
-    Feedback: Ao clicar no botão de capturar rosto, uma janela aparecerá para adicionar a quantidade de capturas. <br>
-    Recomendação: É recomendado utilizar um grande npumero de capturas, para obter um resultado melhor. <br>
-     Plano: Informar o número de capturas que serão tiradas para o treinamento do sistema.
+    <td>Input: Inteiro com a quantidade de capturas a serem realizadas e o intervalo de cada captura.
+    Feedback: Ao clicar no botão de capturar rosto, uma janela aparecerá para adicionar a quantidade de capturas e outra janela para a adição de intervalo de capturas. <br>
+    Recomendação: É recomendado utilizar um grande número de capturas, para obter um resultado melhor. <br>
+     Plano: Informar o número de capturas que serão tiradas e seus intervalos para o treinamento do sistema.
     </td>
     
  </tr>
