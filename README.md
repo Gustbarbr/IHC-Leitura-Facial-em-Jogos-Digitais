@@ -446,7 +446,7 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 
 | Item | Descrição | 
 | -------- | ------- |
-| Hardware  | ...    |
+| Hardware  | PC1 - Processador: Ryzen 7 5700x (Cores: 8 / Threads: 16 / Clock base: 3.4 GHz), RAM: 32gb, Placa gráfica: RTX 4060 (VRAM: 8Gb)   |
 | Software | UI: customTkinter <br> Código fonte: Python <br> Principais bibliotecas utilizadas: TensorFlow, openCv, deepFace, customTkinter, yolo, ultralytics <br> Versões: Python (3.10), TensorFlow (2.19.0) |
 
 * Capacidades (funcionalidades, pelo que entendi) da plataforma:
