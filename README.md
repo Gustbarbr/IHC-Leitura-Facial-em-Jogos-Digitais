@@ -447,9 +447,9 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 | Item | Descrição | 
 | -------- | ------- |
 | Hardware  | ...    |
-| Software | ...     |
+| Software | UI: customTkinter <br> Código fonte: Python <br> Principais bibliotecas utilizadas: TensorFlow, openCv, deepFace, customTkinter, yolo, ultralytics <br> Versões: Python (3.10), TensorFlow (2.19.0) |
 
-* Capacidades da plataforma:
+* Capacidades (funcionalidades, pelo que entendi) da plataforma:
 
 | Capacidade | Justificativa | 
 | -------- | ------- |
