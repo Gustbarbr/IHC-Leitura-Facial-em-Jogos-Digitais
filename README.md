@@ -440,6 +440,40 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 ### Tela de informações
 ![d95a0803-a446-43bb-ae41-057f29e881f2](https://github.com/user-attachments/assets/4cd7e9cf-9698-416b-ac9b-92922b5bdc87)
 
+## Ciclo da Engenharia de Usabilidade
+### Características de plataforma:
+* Descrição de software e hardware:
+
+| Item | Descrição | 
+| -------- | ------- |
+| Hardware  | ...    |
+| Software | ...     |
+
+* Capacidades da plataforma:
+
+| Capacidade | Justificativa | 
+| -------- | ------- |
+| Hardware  | ...    |
+| Software | ...     |
+
+* Restrições da plataforma:
+
+| Restrição | Justificativa | 
+| -------- | ------- |
+| Hardware  | ...    |
+| Software | ...     |
+
+### Princípios gerais de projeto:
+* Descrição do contexto de uso:
+copiar e colar aparentemente, ja fizemos
+
+* Referências:
+
+| Nome | Descrição | Importância para o projeto |
+| -------- | ------- | ------- |
+| Hardware  | ...    | teste |
+| Software | ...     | teste |
+
 
 #### Avaliação heurística
 
