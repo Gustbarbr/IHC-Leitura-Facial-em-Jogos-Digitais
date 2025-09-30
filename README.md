@@ -483,10 +483,14 @@ Durante a coleta das emoções, Gabriel garante que o ambiente permaneça estáv
 
 ### Referências:
 
-| Nome | Descrição | Importância para o projeto |
+| Nome | Descrição | Importância para o projeto | Link |
 | -------- | ------- | ------- |
-| Hardware  | ...    | teste |
-| Software | ...     | teste |
+| FER – Facial Expression Recognition  | Biblioteca open source para reconhecimento de expressões faciais.  | Base inicial para testes de detecção de emoções via IA. | https://imotions.com/blog/learning/research-fundamentals/facial-expression-recognition-fer/ |
+| Kaggle – Face Expression Recognition Dataset | Dataset com milhares de imagens de expressões faciais rotuladas. | Fonte principal de dados para treinar e validar o modelo de reconhecimento. | https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset |
+| Mediapipe – Google AI | Framework do Google para visão computacional e reconhecimento facial em tempo real. | Usado para rastreamento facial eficiente e suporte à detecção em vídeo. | https://developers.google.com/mediapipe |
+| Nevermind (Flying Mollusk, 2015) | Jogo que utiliza leitura biométrica (batimento cardíaco) para alterar a experiência do jogador. | Referência prática de como emoções podem ser integradas na jogabilidade. | https://store.steampowered.com/app/342260/Nevermind/ |
+| DFEW: Dynamic Facial Expression in the Wild | Base de dados de expressões faciais em vídeos reais. | Complemento para aumentar a robustez do modelo de reconhecimento. | https://arxiv.org/abs/2008.05924 |
+| HuggingFace – Transformers | Biblioteca para processamento de linguagem natural e modelos de deep learning. | Possível apoio em técnicas de transferência de aprendizado e uso de arquiteturas modernas. | https://huggingface.co/transformers/ |
 
 
 #### Avaliação heurística
