@@ -481,7 +481,7 @@ Antes de iniciar a coleta de dados, Gabriel precisa configurar o ambiente e o si
 * Gabriel Cavalcante:
 Durante a coleta das emoções, Gabriel garante que o ambiente permaneça estável: a iluminação constante, pouco ruído e o mínimo de movimento externo. Isso evita interferências no reconhecimento facial e garante que as emoções captadas estejam realmente relacionadas às interações do jogador com o jogo. O foco é criar uma experiência imersiva para o participante, enquanto Gabriel observa, coleta e analisa os dados gerados em tempo real ou após a sessão.
 
-* Referências:
+### Referências:
 
 | Nome | Descrição | Importância para o projeto |
 | -------- | ------- | ------- |
