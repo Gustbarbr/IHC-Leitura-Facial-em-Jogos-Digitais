@@ -450,7 +450,7 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 
 | Item | Descrição | 
 | -------- | ------- |
-| Hardware  | PC1 - Processador: Ryzen 7 5700x (Cores: 8 / Threads: 16 / Clock base: 3.4 GHz), RAM: 32gb, Placa gráfica: RTX 4060 (VRAM: 8Gb) <br>PC2 - <br>PC3 -   |
+| Hardware  | PC1 - Processador: Ryzen 7 5700x (Cores: 8 / Threads: 16 / Clock base: 3.4 GHz), RAM: 32gb, Placa gráfica: RTX 4060 (VRAM: 8Gb) <br>PC2 - Processador: Ryzen 9 5900xt (Cores: 16 / Threads: 32 / Clock base: 3.3 GHz), RAM: 32gb, Placa gráfica: RTX 9070xt (VRAM: 12Gb) <br>PC3 -   |
 | Software | UI: customTkinter <br> Código fonte: Python <br> Principais bibliotecas utilizadas: TensorFlow, openCv, deepFace, customTkinter, yolo, ultralytics <br> Versões: Python (3.10), TensorFlow (2.19.0) |
 
 * Capacidades da plataforma:
@@ -458,7 +458,7 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 | Capacidade | Justificativa | 
 | -------- | ------- |
 | Suporte a dispositivos de vídeo  | É necessária para a realização das atividades. |
-| ... | ... |
+| Placa de vídeo dedicada | É necessária para rodar jogos mais atuais. |
 
 * Restrições da plataforma:
 
@@ -468,8 +468,18 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 | Necessidade de um hardware mediano | A grande quantidade de processamento de informações requer um hardware de computador além do básico, para ter uma experiência mais rápida e fluida. |
 
 ### Princípios gerais de projeto:
-* Descrição do contexto de uso:
-copiar e colar aparentemente, ja fizemos
+#### Descreva o ambiente em que o serviço ou produto deve ser utilizado:
+* Gabriel Cavalcante:
+Como Gabriel precisa capturar expressões faciais com precisão para gerar datasets confiáveis, o ambiente ideal de uso do produto deve ser controlado. Ele normalmente utiliza salas bem iluminadas e silenciosas em sua empresa, com webcams de pelo menos 720p e fundos neutros, garantindo que os dados não sejam comprometidos por interferências visuais. Como profissional da área, Gabriel também se certifica de que os participantes não utilizem acessórios que obstruam o rosto, como bonés, máscaras ou óculos escuros, para manter a qalidade do reconhecimento facial.
+#### Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
+* Gabriel Cavalcante:
+Gabriel atua em um contexto profissional, dentro de uma empresa de tecnologia com foco em dados e jogos digitais. Ele tem acesso a recursos computacionais avançados e trabalha com colaboradores familiarizados com tecnologia. Culturalmente, ele está inserido em um ambiente onde inovação, usabilidade e personalização são valorizados, pois os datasets gerados serão usados para melhorar a experiência de jogadores de diferentes perfis. Economicamente, sua empresa investe em ferramentas que otimizem o tempo e aumentem a qualidade dos dados, o que torna fundamental que o produto seja eficiente e compatível com sistemas mais robustos.
+#### Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
+* Gabriel Cavalcante:
+Antes de iniciar a coleta de dados, Gabriel precisa configurar o ambiente e o sistema de forma adequada. Isso inclui garantir que os participantes estejam posicionados corretamente, com boa iluminação e sem obstruções no rosto. O sistema deve registrar informações básicas sobre o cenário de uso (como iluminação, tipo de câmera, resolução e características do ambiente), bem como armazenar fotos iniciais dos usuários para o treinamento do modelo de reconhecimento facial. Esses dados são fundamentais para que o processo ocorra sem erros e para garantir consistência nos datasets gerados.
+#### O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
+* Gabriel Cavalcante:
+Durante a coleta das emoções, Gabriel garante que o ambiente permaneça estável: a iluminação constante, pouco ruído e o mínimo de movimento externo. Isso evita interferências no reconhecimento facial e garante que as emoções captadas estejam realmente relacionadas às interações do jogador com o jogo. O foco é criar uma experiência imersiva para o participante, enquanto Gabriel observa, coleta e analisa os dados gerados em tempo real ou após a sessão.
 
 * Referências:
 
