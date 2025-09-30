@@ -349,7 +349,7 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 
 ### Iniciar reconhecimento
 * HTA:
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/e03c8366-0478-4c90-a440-72c82321c758" />
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/def560a6-560d-4b9f-9ef8-ce322bf5e87f" />
 
 <table>
  <tr>
@@ -364,8 +364,8 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
   Recomendação: Criar um dataset por pessoa, estando em um ambiente isolado preferencialmente.</td>
  </tr>
  <tr>
-  <td>1. Treinar dataset</td>
-  <td>Input: Frames dos rostos do usuário.<br>
+  <td>1. Configurações Dataset</td>
+  <td>Input: Frames dos rostos do usuário e aplicativo apto a compreender as expressões do usuário.<br>
   Plano: Utilizar as imagens capturadas para alimentar a ferramenta.</td>
  </tr>
  <tr>
@@ -381,6 +381,10 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
   <td>1.1.2. Inserir a quantia de capturas desejadas</td>
   <td>Problema: Valores muito altos na quantidade de captura podem gerar travamentos, a depender do hardware.<br>
   Feedback: As imagens serão utilizadas na criação do dataset e posteriormente em seu treinamento.</td>
+ </tr>
+ <tr>
+  <td>1.2. Treinar dataset</td>
+  <td>Feedback: Aplicativo adaptado a compreender as expressões do usuário.</td>
  </tr>
  <tr>
   <td>2.1. Cenário isolado</td>
