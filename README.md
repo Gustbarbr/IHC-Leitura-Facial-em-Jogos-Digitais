@@ -484,7 +484,7 @@ Durante a coleta das emoções, Gabriel garante que o ambiente permaneça estáv
 ### Referências:
 
 | Nome | Descrição | Importância para o projeto | Link |
-| -------- | ------- | ------- |
+| -------- | ------- | ------- | ------- |
 | FER – Facial Expression Recognition  | Biblioteca open source para reconhecimento de expressões faciais.  | Base inicial para testes de detecção de emoções via IA. | https://imotions.com/blog/learning/research-fundamentals/facial-expression-recognition-fer/ |
 | Kaggle – Face Expression Recognition Dataset | Dataset com milhares de imagens de expressões faciais rotuladas. | Fonte principal de dados para treinar e validar o modelo de reconhecimento. | https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset |
 | Mediapipe – Google AI | Framework do Google para visão computacional e reconhecimento facial em tempo real. | Usado para rastreamento facial eficiente e suporte à detecção em vídeo. | https://developers.google.com/mediapipe |
