@@ -523,7 +523,7 @@ Durante a coleta das emoções, Gabriel garante que o ambiente permaneça estáv
 O projeto se utilizará da imagem do rosto do usuário, para isso, deve ser trabalhado de acordo com a LGPD.
 Para isso, juntamente com o teste e a utilização do produto, há um termo de conscientização e de aceitação de uso de imagem pelo projeto.
 
-
+<!--
 #### Avaliação heurística
 
 ### Prtotipação em médio nível (Figma) (A FAZER)
@@ -537,3 +537,4 @@ Para isso, juntamente com o teste e a utilização do produto, há um termo de c
 <!-- TODOs:
 - Add exemplos
  -->
+-->
