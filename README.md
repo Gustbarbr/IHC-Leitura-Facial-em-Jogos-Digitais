@@ -492,30 +492,30 @@ Durante a coleta das emoções, Gabriel garante que o ambiente permaneça estáv
 | DFEW: Dynamic Facial Expression in the Wild | Base de dados de expressões faciais em vídeos reais. | Complemento para aumentar a robustez do modelo de reconhecimento. | https://arxiv.org/abs/2008.05924 |
 | HuggingFace – Transformers | Biblioteca para processamento de linguagem natural e modelos de deep learning. | Possível apoio em técnicas de transferência de aprendizado e uso de arquiteturas modernas. | https://huggingface.co/transformers/ |
 
-### Coleta de dados:
+# Coleta de dados:
 ## Quais dados coletar:
-# Dado demográfico:
+### Dado demográfico:
 * Idade.
-# Educação:
+### Educação:
 * Grau de escolaridade.
-# Experiências:
+### Experiências:
 * Quais suas experiências nos jogos eletrônicos;
 * Quais suas experiências em criação/desenvolvimento de datasets.
-# Hardware pessoal:
+### Hardware pessoal:
 * Quanta memória RAM possui;
 * Qual a placa de vídeo possui;
 * Qual processador possui;
 * Quanto de armazenamento bruto possui.
-# Objetivos:
+### Objetivos:
 * Qual é o objetivo final para usar o projeto;
 * Já existe um meio para atingir tal objetivo?
-# Ocupação:
+### Ocupação:
 * Que cargo ocupa atualmente;
 * Qual a relação do cargo com seus objetivos.
-# Treinamento:
+### Treinamento:
 * Como prefere a apresentação do produto;
 * Preferência em vídeos ou tutorial em texto.
-## De quem coletar os dados:
+### De quem coletar os dados:
 * Pessoas que jogam videogame;
 * Empresas de desenvolvimento de games;
 * Influenciadores de desenvolvimento de games.
