@@ -525,8 +525,8 @@ Para isso, juntamente com o teste e a utilização do produto, há um termo de c
 
 # Meios de coleta de dados:
 ## Questionário:
-Antes da utilização da aplicação pelo usuário, o mesmo deve preencher um questionário para análise.
-Link: 
+Antes da utilização da aplicação pelo usuário, o mesmo deve preencher um questionário para análise. <br>
+Link: https://forms.gle/L7Jg8UU5BZrddnmZ7
 
 <!--
 #### Avaliação heurística
