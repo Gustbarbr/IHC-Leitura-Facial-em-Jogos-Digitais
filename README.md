@@ -528,7 +528,38 @@ Para isso, juntamente com o teste e a utilização do produto, há um termo de c
 Antes da utilização da aplicação pelo usuário, o mesmo deve preencher um questionário para análise. <br>
 Link: https://forms.gle/L7Jg8UU5BZrddnmZ7
 
-# Esquema conceitual de signos
+# Esquema conceitual de signos: conteúdo
+
+<table>
+  <tr>
+    <th><strong>Criar dataset (C) - funcionalidade de criação de dataset</strong></th>
+  </tr>
+  <tr>
+    <td><strong>signo</strong></td>
+    <td><strong>origem</strong></td>
+    <td><strong>observações</strong></td>
+  </tr>
+  <tr>
+    <td>quantidade de capturas</td>
+    <td>domínio</td>
+    <td>indica a quantidade de capturas, quanto mais capturas, melhor o sistema opera</td>
+  </tr>
+   <tr>
+    <td>tempo de intervalo entre capturas</td>
+    <td>domínio</td>
+    <td>indica de quanto em quanto tempo serão realizadas as capturas</td>
+  </tr>
+  <tr>
+    <td>capturas restantes</td>
+    <td>domínio</td>
+    <td>indica quantas capturas ainda faltam para a finalização do processo</td>
+  </tr>
+  <tr>
+    <td>captura finalizada</td>
+    <td>domínio</td>
+    <td>indica que todas as capturas já foram realizadas e que o usuário pode ir para o próximo passo</td>
+  </tr>
+</table>
 
 <!--
 #### Avaliação heurística
