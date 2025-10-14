@@ -577,6 +577,9 @@ Concluída a etapa de curadoria, Ana aprova o dataset final, que é consolidado 
 | > Revisar classificações | U: Quero verificar as classificações feitas pelo sistema.<br>D: Mostrando 10 imagens com suas respectivas emoções detectadas. Deseja corrigir manualmente alguma delas?<br>U: Sim, altere “neutra” para “tristeza” em duas imagens.<br>D: Correções aplicadas. |
 | > Exportar dataset | D: Deseja exportar o dataset em qual formato? (CSV, JSON, ou TensorFlow TFRecord)<br>U: CSV e JSON.<br>D: Exportação concluída. Os arquivos estão prontos para download. |
 | > Encerrar sessão | U: Quero encerrar a sessão de captura.<br>D: Deseja salvar a configuração atual como um perfil padrão?<br>U: Sim, nomeie como “Captura Padrão 720p_2s”.<br>D: Perfil salvo. Sessão encerrada com sucesso. |
+<br>
+
+ Os outros cenários e derivados: https://docs.google.com/document/d/1YYrUdm6h7E00gUmF2o5TV_LmPQy0TSghKg02urThFSE/edit?usp=sharing
 
 # Esquema conceitual de signos: conteúdo
 <table>
