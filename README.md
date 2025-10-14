@@ -528,6 +528,43 @@ Para isso, juntamente com o teste e a utilização do produto, há um termo de c
 Antes da utilização da aplicação pelo usuário, o mesmo deve preencher um questionário para análise. <br>
 Link: https://forms.gle/L7Jg8UU5BZrddnmZ7
 
+# Cenário de interação
+## Cenário
+Cenário de problema: Geração automatizada de datasets de expressões faciais durante sessões de jogos digitais
+Atores: Lucas Andrade (pesquisador/desenvolvedor), Marina Costa (usuária/jogadora), Ana Ribeiro (analista de dados responsável pela curadoria dos datasets)
+
+Na fase inicial de testes do projeto, Lucas Andrade, pesquisador responsável pelo desenvolvimento da ferramenta, precisa coletar e organizar dados para treinar o modelo de reconhecimento de emoções baseado em Deep Learning [1]. Ele é o responsável por configurar o sistema e supervisionar as sessões de coleta, garantindo que as informações sejam devidamente registradas e validadas.
+
+Durante a primeira sessão de testes [2], Marina Costa, jogadora voluntária, acessa o sistema de coleta com seu login e concede autorização para o uso de sua imagem e dados faciais [3]. Assim que a sessão de jogo começa, o sistema ativa automaticamente a webcam do computador e inicia a captura das expressões faciais de Marina em tempo real. Cada frame é processado, e a ferramenta utiliza o modelo DeepFace para identificar emoções predominantes como alegria, frustração, surpresa ou concentração [4].
+
+A cada nova captura, os dados são armazenados localmente e enviados para o banco de dados do sistema, que organiza automaticamente as imagens de acordo com o tipo de emoção e o contexto em que foram registradas [5]. Lucas acompanha remotamente o andamento da coleta e recebe relatórios automáticos de status de cada sessão [9].
+
+Durante o processo, o sistema detecta que a iluminação do ambiente variou de forma significativa, o que pode comprometer a qualidade das imagens. Uma notificação é enviada a Lucas, sugerindo ajustes automáticos de contraste e brilho na webcam [11]. Ele aceita a sugestão e a ferramenta aplica as correções sem interromper a sessão, otimizando o desempenho da captura [12].
+
+Após o término da jogatina, o sistema gera um relatório automático contendo: número total de imagens coletadas, tempo de gravação, emoções predominantes e nível de confiança médio das classificações [10]. Esse relatório é armazenado no servidor e disponibilizado para Ana Ribeiro, analista de dados responsável pela validação e curadoria dos datasets.
+
+Ao acessar o sistema, Ana visualiza todas as sessões realizadas e inicia a etapa de verificação dos dados [6]. Ela observa que algumas imagens foram classificadas de forma incorreta devido a expressões ambíguas ou mudanças bruscas de iluminação. O sistema, então, oferece uma ferramenta de revisão manual, permitindo que Ana corrija as classificações e marque amostras problemáticas para descarte [7].
+
+Para corrigir inconsistências, o sistema entra automaticamente em contato com o jogador responsável (neste caso, Marina) solicitando autorização para o uso das imagens corrigidas e confirmando a liberação dos dados para fins de pesquisa [8]. Marina recebe a notificação por e-mail e acessa um link de confirmação, validando sua participação e a utilização dos dados capturados [13].
+
+Concluída a etapa de curadoria, Ana aprova o dataset final, que é consolidado e salvo em um formato padronizado para uso em futuros treinamentos de modelos de IA. O sistema envia uma notificação para Lucas, confirmando a conclusão do processo, e outra para Marina, informando que seus dados foram oficialmente incluídos no dataset validado [14].
+
+## Perguntas de cenário
+1. Quem pode/deve iniciar a coleta e o cadastro dos dados de expressões faciais no sistema?
+2. Quando são capturados e armazenados os dados de expressões faciais dos jogadores?
+3. Quem fornece os dados de imagem e consentimento para o sistema?
+4. Quais dados (imagens, classificações, metadados) devem ser armazenados no dataset final?
+5. Quantos datasets ou sessões de captura são realizados em cada período de teste?
+6. Quem pode supervisionar e validar os resultados de uma sessão de captura?
+7. Que dados são necessários para cadastrar um novo participante (jogador)?
+8. Como são obtidos e processados os dados de um participante durante a sessão?
+9. De quem depende a conclusão e validação da geração do dataset final?
+10. De que informações o pesquisador precisa para confirmar a qualidade das capturas?
+11. Como o sistema pode ajustar ou confirmar automaticamente as condições de captura?
+12. Em que pontos a interação entre jogador e sistema pode ser mais eficiente?
+13. Como entrar em contato com um participante para confirmar o uso dos dados?
+14. Quem precisa ser notificado da conclusão e validação do dataset?
+
 # Esquema conceitual de signos: conteúdo
 <table>
   <tr>
