@@ -565,6 +565,19 @@ Concluída a etapa de curadoria, Ana aprova o dataset final, que é consolidado 
 13. Como entrar em contato com um participante para confirmar o uso dos dados?
 14. Quem precisa ser notificado da conclusão e validação do dataset?
 
+## Design Centrado na Comunicação
+| Tópico | Falas e signos |
+| -------- | ------- |
+| Iniciar sessão de captura | U: Quero iniciar uma nova sessão de captura de expressões faciais.<br>D: OK. Deseja associar a sessão a um jogo específico ou deixar em modo genérico?<br>U: Modo genérico, vou testar em um jogo qualquer.<br>D: A webcam será ativada e as capturas ocorrerão em tempo real. Confirma o início? |
+| > Configurar captura | U: Sim. Mas quero ajustar a resolução para 720p e definir o intervalo de captura em 2 segundos.<br>D: Configuração salva. Parâmetros definidos: vídeo 720p, intervalo 2s. |
+| > Calibrar reconhecimento facial | D: Antes de começar, precisamos calibrar o reconhecimento. Olhe para a câmera e mantenha uma expressão neutra.<br>U: Certo.<br>D: Calibração concluída. Expressão neutra registrada como referência. |
+| > Iniciar coleta de dados | D: A coleta será iniciada agora. O sistema capturará expressões faciais e classificará emoções em tempo real.<br>U: OK.<br>D: Primeiras capturas realizadas. Emoções detectadas: neutra, surpresa, alegria. |
+| > Consultar resultados parciais | U: Quero ver o resumo das emoções capturadas até agora.<br>D: Foram registradas 120 imagens: 45 neutras, 50 alegres, 25 surpresas.<br>U: Quero excluir as imagens com baixa confiança.<br>D: Removendo 12 imagens com probabilidade abaixo de 70%. |
+| > Rotular e salvar dataset | D: Deseja gerar um dataset com as imagens validadas?<br>U: Sim.<br>D: Informe o nome do dataset.<br>U: “Emoções_GameTest_01”.<br>D: Dataset gerado com sucesso e armazenado em /datasets/Emoções_GameTest_01. |
+| > Revisar classificações | U: Quero verificar as classificações feitas pelo sistema.<br>D: Mostrando 10 imagens com suas respectivas emoções detectadas. Deseja corrigir manualmente alguma delas?<br>U: Sim, altere “neutra” para “tristeza” em duas imagens.<br>D: Correções aplicadas. |
+| > Exportar dataset | D: Deseja exportar o dataset em qual formato? (CSV, JSON, ou TensorFlow TFRecord)<br>U: CSV e JSON.<br>D: Exportação concluída. Os arquivos estão prontos para download. |
+| > Encerrar sessão | U: Quero encerrar a sessão de captura.<br>D: Deseja salvar a configuração atual como um perfil padrão?<br>U: Sim, nomeie como “Captura Padrão 720p_2s”.<br>D: Perfil salvo. Sessão encerrada com sucesso. |
+
 # Esquema conceitual de signos: conteúdo
 <table>
   <tr>
