@@ -531,7 +531,7 @@ Link: https://forms.gle/L7Jg8UU5BZrddnmZ7
 # Cenário de interação
 ## Cenário
 **Cenário de problema:** Geração automatizada de datasets de expressões faciais durante sessões de jogos digitais <br>
-**Atores:** Lucas Andrade (pesquisador/desenvolvedor), Marina Costa (usuária/jogadora), Ana Ribeiro (analista de dados responsável pela curadoria dos datasets) <br>
+**Atores:** Lucas Andrade (pesquisador/desenvolvedor), Marina Costa (usuária/jogadora), Ana Ribeiro (analista de dados) <br>
 
 Na fase inicial de testes do projeto, Lucas Andrade, pesquisador responsável pelo desenvolvimento da ferramenta, precisa coletar e organizar dados para treinar o modelo de reconhecimento de emoções baseado em Deep Learning [1]. Ele é o responsável por configurar o sistema e supervisionar as sessões de coleta, garantindo que as informações sejam devidamente registradas e validadas.
 
