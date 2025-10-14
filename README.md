@@ -529,7 +529,6 @@ Antes da utilização da aplicação pelo usuário, o mesmo deve preencher um qu
 Link: https://forms.gle/L7Jg8UU5BZrddnmZ7
 
 # Esquema conceitual de signos: conteúdo
-
 <table>
   <tr>
     <th><strong>Criar dataset (C) - funcionalidade de criação de dataset</strong></th>
@@ -558,6 +557,38 @@ Link: https://forms.gle/L7Jg8UU5BZrddnmZ7
     <td>captura finalizada</td>
     <td>domínio</td>
     <td>indica que todas as capturas já foram realizadas e que o usuário pode ir para o próximo passo</td>
+  </tr>
+</table>
+
+# Esquema conceitual de signos: prevenção e recuperação de rupturas comunicativas
+<table>
+  <tr>
+    <th><strong>Criar dataset (C) - funcionalidade de criação de dataset</strong></th>
+  </tr>
+  <tr>
+    <td><strong>signo</strong></td>
+    <td><strong>prevenção</strong></td>
+    <td><strong>recuperação</strong></td>
+  </tr>
+  <tr>
+    <td>quantidade de capturas</td>
+    <td>PP + AL : campo numérico obrigatório</td>
+    <td>RA</td>
+  </tr>
+   <tr>
+    <td>tempo de intervalo entre capturas</td>
+    <td>PP + AL: campo numérico obrigatório</td>
+    <td>RA</td>
+  </tr>
+  <tr>
+    <td>capturas restantes</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>captura finalizada</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
 </table>
 
