@@ -648,11 +648,11 @@ Concluída a etapa de curadoria, Ana aprova o dataset final, que é consolidado 
 
 ## MOLIC
 ### Criar Dataset
-<img width="148" height="531" alt="criar" src="https://github.com/user-attachments/assets/e7d21e1c-8672-498e-82be-4b572e28fb9b" />
+<img width="148" height="531" alt="criar" src="https://github.com/user-attachments/assets/e7d21e1c-8672-498e-82be-4b572e28fb9b" /><br>
 ### Treinar Dataset
-<img width="278" height="351" alt="treinar" src="https://github.com/user-attachments/assets/bdb9315a-1324-47ea-8c9e-ddb50363fbba" />
+<img width="278" height="351" alt="treinar" src="https://github.com/user-attachments/assets/bdb9315a-1324-47ea-8c9e-ddb50363fbba" /><br>
 ### Iniciar Captura
-<img width="308" height="541" alt="iniciar" src="https://github.com/user-attachments/assets/e16f9941-44fb-4c81-969c-68d78b706a97" />
+<img width="308" height="541" alt="iniciar" src="https://github.com/user-attachments/assets/e16f9941-44fb-4c81-969c-68d78b706a97" /><br>
 
 
 
