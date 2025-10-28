@@ -654,7 +654,21 @@ Concluída a etapa de curadoria, Ana aprova o dataset final, que é consolidado 
 ### Iniciar Captura
 <img width="308" height="541" alt="iniciar" src="https://github.com/user-attachments/assets/e16f9941-44fb-4c81-969c-68d78b706a97" /><br>
 
-
+## FIGMA
+### Main
+<img width="323" height="303" alt="image" src="https://github.com/user-attachments/assets/d26982b7-e658-4be4-9423-aa3855838c42" /><br>
+### Info
+<img width="313" height="302" alt="image" src="https://github.com/user-attachments/assets/7f222644-a41d-42ad-a92b-0cf31b88ab91" /><br>
+### FaceCam
+<img width="260" height="265" alt="image" src="https://github.com/user-attachments/assets/2947af5c-4357-4025-a0c2-60678bb6a10e" /><br>
+### FaceCam & Screen
+<img width="259" height="269" alt="image" src="https://github.com/user-attachments/assets/52405600-31c3-4740-8584-d0c58f0dc86f" /><br>
+### Train
+<img width="318" height="148" alt="image" src="https://github.com/user-attachments/assets/b498c730-ec75-4c2e-91fc-6e68231d30c4" /><br>
+### How to use
+<img width="320" height="145" alt="image" src="https://github.com/user-attachments/assets/9af8066a-41e5-4fce-9733-8f4109fe7637" /><br>
+### HUB
+<img width="345" height="299" alt="image" src="https://github.com/user-attachments/assets/d2aacaa4-a135-419f-9d92-19e50abab038" /><br>
 
 
 <!--
