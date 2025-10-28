@@ -656,19 +656,19 @@ Concluída a etapa de curadoria, Ana aprova o dataset final, que é consolidado 
 
 ## FIGMA
 ### Main
-<img width="323" height="303" alt="image" src="https://github.com/user-attachments/assets/d26982b7-e658-4be4-9423-aa3855838c42" /><br>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/debaba14-dcce-4734-a0ec-fd383d0623e4" /><br>
 ### Info
-<img width="313" height="302" alt="image" src="https://github.com/user-attachments/assets/7f222644-a41d-42ad-a92b-0cf31b88ab91" /><br>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cccbcbc7-6b8d-49ed-8837-022d943eaa8a" /><br>
 ### FaceCam
-<img width="260" height="265" alt="image" src="https://github.com/user-attachments/assets/2947af5c-4357-4025-a0c2-60678bb6a10e" /><br>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c7af8e40-dfbb-4b9d-b409-342404fa1672" /><br>
 ### FaceCam & Screen
-<img width="259" height="269" alt="image" src="https://github.com/user-attachments/assets/52405600-31c3-4740-8584-d0c58f0dc86f" /><br>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d6990e62-c9b3-47dc-b797-d84a2d42042b" /><br>
 ### Train
-<img width="318" height="148" alt="image" src="https://github.com/user-attachments/assets/b498c730-ec75-4c2e-91fc-6e68231d30c4" /><br>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f8bb6fb8-c66b-4253-82c9-ff4c6b6ef6d9" /><br>
 ### How to use
-<img width="320" height="145" alt="image" src="https://github.com/user-attachments/assets/9af8066a-41e5-4fce-9733-8f4109fe7637" /><br>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8867919f-142b-46d4-a92b-dea63ef34f89" /><br>
 ### HUB
-<img width="345" height="299" alt="image" src="https://github.com/user-attachments/assets/d2aacaa4-a135-419f-9d92-19e50abab038" /><br>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/db5afb38-0c6d-4230-9f27-8afcdfa7bd40" /><br>
 
 
 <!--
