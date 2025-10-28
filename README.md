@@ -423,7 +423,7 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b6690f0e-d429-460a-8072-03a8171345ed" />
 
 
-
+<!--
 ## Coleta de dados (A FAZER)
 
 ## Modelo de tarefas (A FAZER)
@@ -433,7 +433,7 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 - Pense nas características de Affordances do seu serviço ou poduto. 
     - Que tipo de acessibilidades devem ser consideradas dentro do seu projeto?
 - Discuta o papel das expectativas do usuário no projeto deste serviço ou poduto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou poduto?
-
+-->
 ## Prototipação em baixo nível (papel) (A FAZER)
 ### Tela de inicialização / menu:
 ![tela1](https://github.com/user-attachments/assets/ca96c1cd-db81-49fd-a01e-4570721f6f2b)
