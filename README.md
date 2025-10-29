@@ -645,6 +645,13 @@ Concluída a etapa de curadoria, Ana aprova o dataset final, que é consolidado 
   </tr>
 </table>
 
+### Mapa de objetivos Thiago Alberto Mendes
+| tipo de objetivo | formulação |
+|-----------|-----------|
+| final   | Quer utilizar o sistema para  criar um jogo de renome, que aumente a fama da empresa.|
+| instrumental   | Utiliza a definição de quantidade de capturas, intervalo de captura e jogo a ser jogado para facilitar o processo.   |
+| instrumental direto   |  Caso o usuário já tenha passado pelos dois primeiros passos uma vez, poderá partir para a execução do projeto em todas as outras execução, clicando em iniciar reconhecimento.   |
+| instrumental indireto   | Uma vez realizada a captura de imagens para treinamento, não será necessários esses passos novamente.   |
 
 ## MOLIC
 ### Criar Dataset
