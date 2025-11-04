@@ -528,6 +528,9 @@ Para isso, juntamente com o teste e a utilização do produto, há um termo de c
 Antes da utilização da aplicação pelo usuário, o mesmo deve preencher um questionário para análise. <br>
 Link: https://forms.gle/L7Jg8UU5BZrddnmZ7
 
+Antes da utilização da aplicação pelo usuário, o mesmo deve participar de uma entrevista para análise. <br>
+Link: https://forms.gle/8g5qw6PbaMjYnkrv7
+
 # Cenário de interação
 ## Cenário
 **Cenário de problema:** Geração automatizada de datasets de expressões faciais durante sessões de jogos digitais <br>
