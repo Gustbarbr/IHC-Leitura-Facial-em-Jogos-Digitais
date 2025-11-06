@@ -584,6 +584,16 @@ Concluída a etapa de curadoria, Ana aprova o dataset final, que é consolidado 
 
  Os outros cenários e derivados: https://docs.google.com/document/d/1YYrUdm6h7E00gUmF2o5TV_LmPQy0TSghKg02urThFSE/edit?usp=sharing
 
+# Mapa de Objetivo
+| Tipo de objetivo | formulação: usuário | 
+|--------------------|------------------|
+| final | Quer utilizar o sistema para gerar Datasets de imagens de rostos classificados de acordo com a expressão     |
+| instrumental | quer aumentar a eficiência na geração de dataset enquanto realiza outra atividade     |
+| instrumental direto | quer gerar dataset de forma mais rápida para utilizar em coleta de dados com contexto ou treinamento de modelos de IA     |
+| instrumental indireto | quer gerar dataset de expressões de usuários com a tela para identificar o contexto que motivou a expressão e acumular dados para futuras análises que podem gerar resultados com informações do ambiente ou cenário que o usuário se encontrava. |
+
+
+
 # Esquema conceitual de signos: conteúdo
 <table>
   <tr>
