@@ -592,6 +592,9 @@ Concluída a etapa de curadoria, Ana aprova o dataset final, que é consolidado 
 | instrumental direto | quer gerar dataset de forma mais rápida para utilizar em coleta de dados com contexto ou treinamento de modelos de IA     |
 | instrumental indireto | quer gerar dataset de expressões de usuários com a tela para identificar o contexto que motivou a expressão e acumular dados para futuras análises que podem gerar resultados com informações do ambiente ou cenário que o usuário se encontrava. |
 
+<img width="379" height="520" alt="image" src="https://github.com/user-attachments/assets/aec83cea-bf9c-43c2-af29-a73fb2f9401e" />
+
+
 
 
 # Esquema conceitual de signos: conteúdo
