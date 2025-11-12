@@ -674,7 +674,8 @@ Concluída a etapa de curadoria, Ana aprova o dataset final, que é consolidado 
 <img width="472" height="492" alt="criar" src="https://github.com/user-attachments/assets/3dfb91a0-9cf6-4e4b-b148-e930e9de772a" />
 
 ### Treinar Dataset
-<img width="278" height="351" alt="treinar" src="https://github.com/user-attachments/assets/bdb9315a-1324-47ea-8c9e-ddb50363fbba" /><br>
+<img width="536" height="471" alt="molic2" src="https://github.com/user-attachments/assets/a0f18538-5e9c-4768-906d-f0a128232f40" />
+<br>
 ### Iniciar Captura
 <img width="308" height="541" alt="iniciar" src="https://github.com/user-attachments/assets/e16f9941-44fb-4c81-969c-68d78b706a97" /><br>
 
