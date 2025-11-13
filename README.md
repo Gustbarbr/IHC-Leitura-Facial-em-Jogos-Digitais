@@ -699,6 +699,18 @@ Concluída a etapa de curadoria, Ana aprova o dataset final, que é consolidado 
 ### HUB
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/db5afb38-0c6d-4230-9f27-8afcdfa7bd40" /><br>
 
+## Planejamento de usabilidade:
+D: Analisar o uso do software. <br>
+E: O usuário entendeu como usar sozinho? O usuário conseguiu obter um resultado satisfatório? O programa foi intuitivo? <br>
+C: Nielsen. São 10 regras que visam o bom funcionamento e boa interatividade com o usuário. <br>
+I: Entrevistas e questionários para interação com usuários, assim como reuniões para tratar de projeções futuras do projeto. <br>
+D: Antes do usuário utilizar o produto, deverá concordar com um termo de autorização de uso de imagem, caso não aceite, sairá do programa. Na fase de testes, os testadores tiveram de assinar um termo físico de uso de imagem. <br>
+E: Ao finalizar os testes, os testadores devem preencher um formulário que possui perguntas relacionadas ao projeto, funcionamento, usabilidade. <br>
+
+## Lista de instrumentos:
+* Entrevista;
+* Questionários;
+* Avaliação posterior ao uso do programa.
 
 <!--
 #### Avaliação heurística
