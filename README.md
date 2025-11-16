@@ -712,6 +712,31 @@ E: Ao finalizar os testes, os testadores devem preencher um formulário que poss
 * Questionários;
 * Avaliação posterior ao uso do programa.
 
+## Avaliação Heurística
+| <b>Visibilidade do status do sistema: </b>| 
+|--------------------|
+|  |
+| <b>Compatibilidade entre sistema e mundo real: </b>| 
+|  |
+| <b>Controle e liberdade para o usuário:</b> | 
+|  |
+| <b>Consistência e padrões: </b>| 
+|  |
+| <b>Prevenção de erros: </b>| 
+|  |
+| <b>Reconhecimento em lugar de lembrança: </b>|
+|  |
+| <b>Flexibilidade e eficiência de uso: </b>|
+|  |
+| <b>Projeto minimalista e estético: </b>|
+|  |
+| <b>Auxiliar os usuários a reconhecer, diagnosticar e recuperar erros: </b>|
+|  |
+| <b>Ajuda e documentação:</b> |
+|  |
+
+
+
 <!--
 #### Avaliação heurística
 
