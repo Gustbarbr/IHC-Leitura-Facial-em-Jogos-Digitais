@@ -715,25 +715,40 @@ E: Ao finalizar os testes, os testadores devem preencher um formulário que poss
 ## Avaliação Heurística
 | <b>Visibilidade do status do sistema: </b>| 
 |--------------------|
-|  |
+| O sistema fornece feedback ao usuário durante etapas essenciais, como captura de imagens, criação de pastas e início do reconhecimento facial. O progresso da captura também é comunicado, garantindo que o usuário compreenda que a tarefa está em andamento.
+Problema identificado: em processos longos (ex.: número alto de capturas), podem ocorrer incertezas caso o feedback não seja contínuo.
+Recomendação: incluir barras de progresso, indicadores animados e mensagens claras sobre a etapa atual. |
 | <b>Compatibilidade entre sistema e mundo real: </b>| 
-|  |
+| A aplicação utiliza termos familiares ao usuário, como “capturar rosto”, “criar dataset” e “treinar modelo”. Essa correspondência torna o fluxo compreensível mesmo para usuários não especialistas em IA.
+Problema identificado: usuários iniciantes podem não compreender termos técnicos como “frame”, “intervalo de captura” ou “dataset”.
+Recomendação: adicionar ícones ilustrativos, descrições simples e tooltips. |
 | <b>Controle e liberdade para o usuário:</b> | 
-|  |
+| O sistema permite que o usuário cancele ou reinicie processos, como a captura de rostos ou o treinamento de datasets. Isso evita situações de bloqueio.
+Recomendação: disponibilizar opções claras de “Cancelar”, “Reiniciar” e “Voltar”, especialmente nas telas de captura e treinamento. |
 | <b>Consistência e padrões: </b>| 
-|  |
+| O design segue um padrão visual coerente, com botões que possuem funções semelhantes distribuídos de forma previsível.
+Problema identificado: a alternância entre termos técnicos e linguagem leiga pode confundir o usuário.
+Recomendação: definir um padrão único de terminologia (ex.: sempre usar “captura” em vez de alternar com “frame”). |
 | <b>Prevenção de erros: </b>| 
-|  |
+| A interface orienta o usuário a utilizar boa iluminação, fundo limpo e câmera adequada — fatores essenciais para o funcionamento do reconhecimento facial.
+Problema identificado: o usuário pode inserir valores extremos de quantidade de capturas ou intervalos muito curtos, gerando travamentos.
+Recomendação: validar inputs com limites mínimos e máximos, além de exibir avisos preventivos. |
 | <b>Reconhecimento em lugar de lembrança: </b>|
-|  |
+| A aplicação utiliza botões autoexplicativos e fluxos guiados, reduzindo a necessidade de decorar passos.
+Recomendação: manter instruções visíveis durante a captura, como posicionamento do rosto e iluminação recomendada. |
 | <b>Flexibilidade e eficiência de uso: </b>|
-|  |
+| Usuários avançados podem acelerar o processo com atalhos como o uso do teclado (Enter) e automações durante o treinamento.
+Recomendação: adicionar suporte a comandos de voz, perfis pré-configurados e atalhos para usuários frequentes. |
 | <b>Projeto minimalista e estético: </b>|
-|  |
+| O sistema propõe uma interface moderna, com animações fluidas, ícones e fluxo intuitivo.
+Problema identificado: muitas instruções textuais podem poluir visualmente a tela, especialmente na etapa de treinamento.
+Recomendação: distribuir informações em camadas — ex.: explicações expansíveis ou tutoriais curtos dentro da interface. |
 | <b>Auxiliar os usuários a reconhecer, diagnosticar e recuperar erros: </b>|
-|  |
+| Ao ocorrer falhas (ex.: webcam não conectada ou rosto não encontrado), o sistema deve exibir mensagens claras e instruções para correção.
+Recomendação: incluir mensagens como “Nenhuma webcam detectada”, “Ambiente muito escuro” ou “Múltiplos rostos detectados — escolha apenas um”. |
 | <b>Ajuda e documentação:</b> |
-|  |
+| Mesmo buscando alta intuitividade, o sistema precisa oferecer material de apoio, especialmente para usuários iniciantes ou profissionais que utilizam a ferramenta em ambiente de produção.
+Recomendação: incorporar um mini-tutorial interativo, uma página de perguntas frequentes (FAQ) e exemplos de uso. |
 
 
 
